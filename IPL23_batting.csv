@@ -1,0 +1,1112 @@
+Batting_position ,BATTING,Team,Match,Match Number ,wicket_type,Runs ,Balls ,M,4s,6s,SR
+1,Devon Conway,Chennai Super Kings ,Chennai Super Kings  vs Gujarat Titans,1,b Mohammed Shami,1,6,-,0,0,16.66
+2,Ruturaj Gaikwad,Chennai Super Kings ,Chennai Super Kings  vs Gujarat Titans,1,c Shubman Gill b Joseph,92,50,-,4,9,184
+3,Moeen Ali,Chennai Super Kings ,Chennai Super Kings  vs Gujarat Titans,1,c †Saha b Rashid Khan,23,17,-,4,1,135.29
+4,Ben Stokes,Chennai Super Kings ,Chennai Super Kings  vs Gujarat Titans,1,c †Saha b Rashid Khan,7,6,-,1,0,116.66
+5,Ambati Rayudu,Chennai Super Kings ,Chennai Super Kings  vs Gujarat Titans,1,b Little,12,12,-,0,1,100
+6,Shivam Dube,Chennai Super Kings ,Chennai Super Kings  vs Gujarat Titans,1,c Rashid Khan b Mohammed Shami,19,18,-,0,1,105.55
+7,Ravindra Jadeja,Chennai Super Kings ,Chennai Super Kings  vs Gujarat Titans,1,c Shankar b Joseph,1,2,-,0,0,50
+8,MS Dhoni (c)†,Chennai Super Kings ,Chennai Super Kings  vs Gujarat Titans,1,not out,14,7,-,1,1,200
+9,Mitchell Santner,Chennai Super Kings ,Chennai Super Kings  vs Gujarat Titans,1,not out,1,3,-,0,0,33.33
+1,Wriddhiman Saha †,Gujarat Titans,Chennai Super Kings  vs Gujarat Titans,1,c Dube b Hangargekar,25,16,-,2,2,156.25
+2,Shubman Gill,Gujarat Titans,Chennai Super Kings  vs Gujarat Titans,1,c Gaikwad b Deshpande,63,36,-,6,3,175
+3,Sai Sudharsan,Gujarat Titans,Chennai Super Kings  vs Gujarat Titans,1,c †Dhoni b Hangargekar,22,17,-,3,0,129.41
+4,Hardik Pandya (c),Gujarat Titans,Chennai Super Kings  vs Gujarat Titans,1,b Jadeja,8,11,-,0,0,72.72
+5,Vijay Shankar,Gujarat Titans,Chennai Super Kings  vs Gujarat Titans,1,c Santner b Hangargekar,27,21,-,2,1,128.57
+6,Rahul Tewatia,Gujarat Titans,Chennai Super Kings  vs Gujarat Titans,1,not out,15,14,-,1,1,107.14
+7,Rashid Khan,Gujarat Titans,Chennai Super Kings  vs Gujarat Titans,1,not out,10,3,-,1,1,333.33
+1,Prabhsimran Singh,Punjab Kings ,Punjab Kings vs Kolkata Knight Riders ,2,c †Rahmanullah Gurbaz b Southee,23,12,10,2,2,191.66
+2,Shikhar Dhawan (c),Punjab Kings ,Punjab Kings vs Kolkata Knight Riders ,2,b Varun,40,29,75,6,0,137.93
+3,Bhanuka Rajapaksa,Punjab Kings ,Punjab Kings vs Kolkata Knight Riders ,2,c Singh b Yadav,50,32,47,5,2,156.25
+4,Jitesh Sharma †,Punjab Kings ,Punjab Kings vs Kolkata Knight Riders ,2,c Yadav b Southee,21,11,13,1,2,190.9
+5,Sikandar Raza,Punjab Kings ,Punjab Kings vs Kolkata Knight Riders ,2,c Rana b Narine,16,13,22,1,1,123.07
+6,Sam Curran,Punjab Kings ,Punjab Kings vs Kolkata Knight Riders ,2,not out,26,17,27,0,2,152.94
+7,M Shahrukh Khan,Punjab Kings ,Punjab Kings vs Kolkata Knight Riders ,2,not out,11,7,11,2,0,157.14
+1,Mandeep Singh,Kolkata Knight Riders ,Punjab Kings vs Kolkata Knight Riders ,2,c Curran b Arshdeep Singh,2,4,7,0,0,50
+2,Rahmanullah Gurbaz †,Kolkata Knight Riders ,Punjab Kings vs Kolkata Knight Riders ,2,b Ellis,22,16,26,3,1,137.5
+3,Anukul Roy,Kolkata Knight Riders ,Punjab Kings vs Kolkata Knight Riders ,2,c Sikandar Raza b Arshdeep Singh,4,5,5,1,0,80
+4,Venkatesh Iyer,Kolkata Knight Riders ,Punjab Kings vs Kolkata Knight Riders ,2,c Chahar b Arshdeep Singh,34,28,66,3,1,121.42
+5,Nitish Rana (c),Kolkata Knight Riders ,Punjab Kings vs Kolkata Knight Riders ,2,c Chahar b Sikandar Raza,24,17,23,3,1,141.17
+6,Rinku Singh,Kolkata Knight Riders ,Punjab Kings vs Kolkata Knight Riders ,2,c Sikandar Raza b Chahar,4,4,5,0,0,100
+7,Andre Russell,Kolkata Knight Riders ,Punjab Kings vs Kolkata Knight Riders ,2,c Sikandar Raza b Curran,35,19,24,3,2,184.21
+8,Shardul Thakur,Kolkata Knight Riders ,Punjab Kings vs Kolkata Knight Riders ,2,not out,8,3,8,0,1,266.66
+9,Sunil Narine,Kolkata Knight Riders ,Punjab Kings vs Kolkata Knight Riders ,2,not out,7,2,4,0,1,350
+1,KL Rahul (c),Lucknow Super Giants ,Lucknow Super Giants vs Delhi Capitals,3,c Patel b Sakariya,8,12,21,0,1,66.66
+2,Kyle Mayers,Lucknow Super Giants ,Lucknow Super Giants vs Delhi Capitals,3,b Patel,73,38,53,2,7,192.1
+3,Deepak Hooda,Lucknow Super Giants ,Lucknow Super Giants vs Delhi Capitals,3,c Warner b Kuldeep Yadav,17,18,31,0,0,94.44
+4,Krunal Pandya,Lucknow Super Giants ,Lucknow Super Giants vs Delhi Capitals,3,not out,15,13,51,0,1,115.38
+5,Marcus Stoinis,Lucknow Super Giants ,Lucknow Super Giants vs Delhi Capitals,3,c †Khan b Ahmed,12,10,13,0,1,120
+6,Nicholas Pooran †,Lucknow Super Giants ,Lucknow Super Giants vs Delhi Capitals,3,c Shaw b Ahmed,36,21,24,2,3,171.42
+7,Ayush Badoni,Lucknow Super Giants ,Lucknow Super Giants vs Delhi Capitals,3,c †Khan b Sakariya,18,7,10,1,2,257.14
+8,Krishnappa Gowtham,Lucknow Super Giants ,Lucknow Super Giants vs Delhi Capitals,3,not out,6,1,2,0,1,600
+1,Prithvi Shaw,Delhi Capitals,Lucknow Super Giants vs Delhi Capitals,3,b Wood,12,9,24,2,0,133.33
+2,David Warner (c),Delhi Capitals,Lucknow Super Giants vs Delhi Capitals,3,c Gowtham b Avesh Khan,56,48,87,7,0,116.66
+3,Mitchell Marsh,Delhi Capitals,Lucknow Super Giants vs Delhi Capitals,3,b Wood,0,1,2,0,0,0
+4,Sarfaraz Khan †,Delhi Capitals,Lucknow Super Giants vs Delhi Capitals,3,c Gowtham b Wood,4,9,16,1,0,44.44
+5,Rilee Rossouw,Delhi Capitals,Lucknow Super Giants vs Delhi Capitals,3,c Mayers b Ravi Bishnoi,30,20,24,3,1,150
+6,Rovman Powell,Delhi Capitals,Lucknow Super Giants vs Delhi Capitals,3,lbw b Ravi Bishnoi,1,3,11,0,0,33.33
+7,Aman Hakim Khan,Delhi Capitals,Lucknow Super Giants vs Delhi Capitals,3,c †Pooran b Avesh Khan,4,5,11,0,0,80
+8,Axar Patel,Delhi Capitals,Lucknow Super Giants vs Delhi Capitals,3,c sub (PN Mankad) b Wood,16,11,21,1,1,145.45
+9,Kuldeep Yadav,Delhi Capitals,Lucknow Super Giants vs Delhi Capitals,3,not out,6,10,22,0,0,60
+10,Chetan Sakariya,Delhi Capitals,Lucknow Super Giants vs Delhi Capitals,3,c Pandya b Wood,4,4,5,1,0,100
+11,Mukesh Kumar,Delhi Capitals,Lucknow Super Giants vs Delhi Capitals,3,not out,0,1,1,0,0,0
+1,Yashasvi Jaiswal,Rajasthan Royals,Rajasthan Royals vs Sunrisers Hyderabad,4,c Agarwal b Fazalhaq Farooqi,54,37,63,9,0,145.94
+2,Jos Buttler,Rajasthan Royals,Rajasthan Royals vs Sunrisers Hyderabad,4,b Fazalhaq Farooqi,54,22,32,7,3,245.45
+3,Sanju Samson (c)†,Rajasthan Royals,Rajasthan Royals vs Sunrisers Hyderabad,4,c Abhishek Sharma b Natarajan,55,32,66,3,4,171.87
+4,Devdutt Padikkal,Rajasthan Royals,Rajasthan Royals vs Sunrisers Hyderabad,4,b Umran Malik,2,5,10,0,0,40
+5,Riyan Parag,Rajasthan Royals,Rajasthan Royals vs Sunrisers Hyderabad,4,c Fazalhaq Farooqi b Natarajan,7,6,12,1,0,116.66
+6,Shimron Hetmyer,Rajasthan Royals,Rajasthan Royals vs Sunrisers Hyderabad,4,not out,22,16,21,1,1,137.5
+7,Ravichandran Ashwin,Rajasthan Royals,Rajasthan Royals vs Sunrisers Hyderabad,4,not out,1,2,9,0,0,50
+1,Abhishek Sharma,Sunrisers Hyderabad,Rajasthan Royals vs Sunrisers Hyderabad,4,b Boult,0,3,3,0,0,0
+2,Mayank Agarwal,Sunrisers Hyderabad,Rajasthan Royals vs Sunrisers Hyderabad,4,c Buttler b Chahal,27,23,56,3,0,117.39
+3,Rahul Tripathi,Sunrisers Hyderabad,Rajasthan Royals vs Sunrisers Hyderabad,4,c Holder b Boult,0,2,6,0,0,0
+4,Harry Brook,Sunrisers Hyderabad,Rajasthan Royals vs Sunrisers Hyderabad,4,b Chahal,13,21,28,1,0,61.9
+5,Washington Sundar,Sunrisers Hyderabad,Rajasthan Royals vs Sunrisers Hyderabad,4,c Hetmyer b Holder,1,5,10,0,0,20
+6,Glenn Phillips †,Sunrisers Hyderabad,Rajasthan Royals vs Sunrisers Hyderabad,4,c Asif b Ashwin,8,6,6,0,1,133.33
+7,Abdul Samad,Sunrisers Hyderabad,Rajasthan Royals vs Sunrisers Hyderabad,4,not out,32,32,51,2,1,100
+8,Adil Rashid,Sunrisers Hyderabad,Rajasthan Royals vs Sunrisers Hyderabad,4,st †Samson b Chahal,18,13,17,1,1,138.46
+9,Bhuvneshwar Kumar (c),Sunrisers Hyderabad,Rajasthan Royals vs Sunrisers Hyderabad,4,b Chahal,6,10,20,0,0,60
+10,Umran Malik,Sunrisers Hyderabad,Rajasthan Royals vs Sunrisers Hyderabad,4,not out,19,8,12,1,2,237.5
+1,Rohit Sharma (c), Mumbai Indians, Mumbai Indians vs Royal Challengers Bangalore,5,c †Karthik b Akash Deep,1,10,30,0,0,10
+2,Ishan Kishan †, Mumbai Indians, Mumbai Indians vs Royal Challengers Bangalore,5,c Patel b Mohammed Siraj,10,13,13,2,0,76.92
+3,Cameron Green, Mumbai Indians, Mumbai Indians vs Royal Challengers Bangalore,5,b Topley,5,4,6,1,0,125
+4,Suryakumar Yadav, Mumbai Indians, Mumbai Indians vs Royal Challengers Bangalore,5,c Shahbaz Ahmed b Bracewell,15,16,35,1,0,93.75
+5,Tilak Varma, Mumbai Indians, Mumbai Indians vs Royal Challengers Bangalore,5,not out,84,46,85,9,4,182.6
+6,Nehal Wadhera, Mumbai Indians, Mumbai Indians vs Royal Challengers Bangalore,5,c Kohli b Sharma,21,13,25,1,2,161.53
+7,Tim David, Mumbai Indians, Mumbai Indians vs Royal Challengers Bangalore,5,b Sharma,4,7,11,0,0,57.14
+8,Hrithik Shokeen, Mumbai Indians, Mumbai Indians vs Royal Challengers Bangalore,5,c du Plessis b Patel,5,3,12,1,0,166.66
+9,Arshad Khan, Mumbai Indians, Mumbai Indians vs Royal Challengers Bangalore,5,not out,15,9,19,0,1,166.66
+1,Virat Kohli,Royal Challengers Bangalore, Mumbai Indians vs Royal Challengers Bangalore,5,not out,82,49,75,6,5,167.34
+2,Faf du Plessis (c),Royal Challengers Bangalore, Mumbai Indians vs Royal Challengers Bangalore,5,c David b Arshad Khan,73,43,66,5,6,169.76
+3,Dinesh Karthik †,Royal Challengers Bangalore, Mumbai Indians vs Royal Challengers Bangalore,5,c Tilak Varma b Green,0,3,6,0,0,0
+4,Glenn Maxwell,Royal Challengers Bangalore, Mumbai Indians vs Royal Challengers Bangalore,5,not out,12,3,5,0,2,400
+1,Ruturaj Gaikwad,Chennai Super Kings ,Chennai Super Kings vs Lucknow Super Giants,6,c Wood b Ravi Bishnoi,57,31,55,3,4,183.87
+2,Devon Conway,Chennai Super Kings ,Chennai Super Kings vs Lucknow Super Giants,6,c Pandya b Wood,47,29,62,5,2,162.06
+3,Shivam Dube,Chennai Super Kings ,Chennai Super Kings vs Lucknow Super Giants,6,c Wood b Ravi Bishnoi,27,16,22,1,3,168.75
+4,Moeen Ali,Chennai Super Kings ,Chennai Super Kings vs Lucknow Super Giants,6,st †Pooran b Ravi Bishnoi,19,13,25,3,0,146.15
+5,Ben Stokes,Chennai Super Kings ,Chennai Super Kings vs Lucknow Super Giants,6,c Yash Thakur b Avesh Khan,8,8,16,1,0,100
+6,Ambati Rayudu,Chennai Super Kings ,Chennai Super Kings vs Lucknow Super Giants,6,not out,27,14,26,2,2,192.85
+7,Ravindra Jadeja,Chennai Super Kings ,Chennai Super Kings vs Lucknow Super Giants,6,c Ravi Bishnoi b Wood,3,6,13,0,0,50
+8,MS Dhoni (c)†,Chennai Super Kings ,Chennai Super Kings vs Lucknow Super Giants,6,c Ravi Bishnoi b Wood,12,3,6,0,2,400
+9,Mitchell Santner,Chennai Super Kings ,Chennai Super Kings vs Lucknow Super Giants,6,not out,1,1,2,0,0,100
+1,KL Rahul (c),Lucknow Super Giants,Chennai Super Kings vs Lucknow Super Giants,6,c Gaikwad b Ali,20,18,42,2,0,111.11
+2,Kyle Mayers,Lucknow Super Giants,Chennai Super Kings vs Lucknow Super Giants,6,c Conway b Ali,53,22,35,8,2,240.9
+3,Deepak Hooda,Lucknow Super Giants,Chennai Super Kings vs Lucknow Super Giants,6,c Stokes b Santner,2,6,6,0,0,33.33
+4,Krunal Pandya,Lucknow Super Giants,Chennai Super Kings vs Lucknow Super Giants,6,c Jadeja b Ali,9,9,14,0,1,100
+5,Marcus Stoinis,Lucknow Super Giants,Chennai Super Kings vs Lucknow Super Giants,6,b Ali,21,18,26,0,1,116.66
+6,Nicholas Pooran †,Lucknow Super Giants,Chennai Super Kings vs Lucknow Super Giants,6,c Stokes b Deshpande,32,18,28,2,3,177.77
+7,Ayush Badoni,Lucknow Super Giants,Chennai Super Kings vs Lucknow Super Giants,6,c †Dhoni b Deshpande,23,18,38,0,0,127.77
+8,Krishnappa Gowtham,Lucknow Super Giants,Chennai Super Kings vs Lucknow Super Giants,6,not out,17,11,26,0,1,154.54
+9,Mark Wood,Lucknow Super Giants,Chennai Super Kings vs Lucknow Super Giants,6,not out,10,3,2,1,1,333.33
+1,David Warner (c),Delhi Capitals,Delhi Capitals vs Gujarat Titans,7,b Joseph,37,32,48,7,0,115.62
+2,Prithvi Shaw,Delhi Capitals,Delhi Capitals vs Gujarat Titans,7,c Joseph b Mohammed Shami,7,5,17,1,0,140
+3,Mitchell Marsh,Delhi Capitals,Delhi Capitals vs Gujarat Titans,7,b Mohammed Shami,4,4,10,1,0,100
+4,Sarfaraz Khan,Delhi Capitals,Delhi Capitals vs Gujarat Titans,7,c Little b Rashid Khan,30,34,66,2,0,88.23
+5,Rilee Rossouw,Delhi Capitals,Delhi Capitals vs Gujarat Titans,7,c Tewatia b Joseph,0,1,4,0,0,0
+6,Abishek Porel †,Delhi Capitals,Delhi Capitals vs Gujarat Titans,7,b Rashid Khan,20,11,25,0,2,181.81
+7,Axar Patel,Delhi Capitals,Delhi Capitals vs Gujarat Titans,7,c Miller b Mohammed Shami,36,22,33,2,3,163.63
+8,Aman Hakim Khan,Delhi Capitals,Delhi Capitals vs Gujarat Titans,7,c Pandya b Rashid Khan,8,8,10,0,1,100
+9,Kuldeep Yadav,Delhi Capitals,Delhi Capitals vs Gujarat Titans,7,not out,1,1,7,0,0,100
+1,Wriddhiman Saha †,Gujarat Titans,Delhi Capitals vs Gujarat Titans,7,b Nortje,14,7,9,2,1,200
+2,Shubman Gill,Gujarat Titans,Delhi Capitals vs Gujarat Titans,7,b Nortje,14,13,19,3,0,107.69
+3,Sai Sudharsan,Gujarat Titans,Delhi Capitals vs Gujarat Titans,7,not out,62,48,92,4,2,129.16
+4,Hardik Pandya (c),Gujarat Titans,Delhi Capitals vs Gujarat Titans,7,c †Abishek Porel b Ahmed,5,4,12,1,0,125
+5,Vijay Shankar,Gujarat Titans,Delhi Capitals vs Gujarat Titans,7,lbw b Marsh,29,23,40,3,0,126.08
+6,David Miller,Gujarat Titans,Delhi Capitals vs Gujarat Titans,7,not out,31,16,28,2,2,193.75
+1,Prabhsimran Singh,Punjab Kings ,Punjab Kings vs Rajasthan Royals,8,c Buttler b Holder,60,34,49,7,3,176.47
+2,Shikhar Dhawan (c),Punjab Kings ,Punjab Kings vs Rajasthan Royals,8,not out,86,56,113,9,3,153.57
+3,Bhanuka Rajapaksa,Punjab Kings ,Punjab Kings vs Rajasthan Royals,8,retired hurt,1,1,3,0,0,100
+4,Jitesh Sharma †,Punjab Kings ,Punjab Kings vs Rajasthan Royals,8,c Parag b Chahal,27,16,31,2,1,168.75
+5,Sikandar Raza,Punjab Kings ,Punjab Kings vs Rajasthan Royals,8,b Ashwin,1,2,2,0,0,50
+6,M Shahrukh Khan,Punjab Kings ,Punjab Kings vs Rajasthan Royals,8,c Buttler b Holder,11,10,23,1,0,110
+7,Sam Curran,Punjab Kings ,Punjab Kings vs Rajasthan Royals,8,not out,1,2,3,0,0,50
+1,Yashasvi Jaiswal,Rajasthan Royals,Punjab Kings vs Rajasthan Royals,8,c sub (MW Short) b Arshdeep Singh,11,8,12,1,1,137.5
+2,Ravichandran Ashwin,Rajasthan Royals,Punjab Kings vs Rajasthan Royals,8,c S Dhawan b Arshdeep Singh,0,4,23,0,0,0
+3,Jos Buttler,Rajasthan Royals,Punjab Kings vs Rajasthan Royals,8,c & b Ellis,19,11,24,1,1,172.72
+4,Sanju Samson (c)†,Rajasthan Royals,Punjab Kings vs Rajasthan Royals,8,c sub (MW Short) b Ellis,42,25,39,5,1,168
+5,Devdutt Padikkal,Rajasthan Royals,Punjab Kings vs Rajasthan Royals,8,b Ellis,21,26,47,1,0,80.76
+6,Riyan Parag,Rajasthan Royals,Punjab Kings vs Rajasthan Royals,8,c Shahrukh Khan b Ellis,20,12,16,1,2,166.66
+7,Shimron Hetmyer,Rajasthan Royals,Punjab Kings vs Rajasthan Royals,8,run out (Shahrukh Khan/Curran),36,18,35,1,3,200
+8,Dhruv Jurel,Rajasthan Royals,Punjab Kings vs Rajasthan Royals,8,not out,32,15,32,3,2,213.33
+9,Jason Holder,Rajasthan Royals,Punjab Kings vs Rajasthan Royals,8,not out,1,1,4,0,0,100
+1,Rahmanullah Gurbaz †,Kolkata Knight Riders ,Kolkata Knight Riders  vs Royal Challengers Bangalore ,9,c Akash Deep b Sharma,57,44,58,6,3,129.54
+2,Venkatesh Iyer,Kolkata Knight Riders ,Kolkata Knight Riders  vs Royal Challengers Bangalore ,9,b Willey,3,7,18,0,0,42.85
+3,Mandeep Singh,Kolkata Knight Riders ,Kolkata Knight Riders  vs Royal Challengers Bangalore ,9,b Willey,0,1,2,0,0,0
+4,Nitish Rana (c),Kolkata Knight Riders ,Kolkata Knight Riders  vs Royal Challengers Bangalore ,9,c †Karthik b Bracewell,1,5,17,0,0,20
+5,Rinku Singh,Kolkata Knight Riders ,Kolkata Knight Riders  vs Royal Challengers Bangalore ,9,c †Karthik b Patel,46,33,64,2,3,139.39
+6,Andre Russell,Kolkata Knight Riders ,Kolkata Knight Riders  vs Royal Challengers Bangalore ,9,c Kohli b Sharma,0,1,2,0,0,0
+7,Shardul Thakur,Kolkata Knight Riders ,Kolkata Knight Riders  vs Royal Challengers Bangalore ,9,c Maxwell b Mohammed Siraj,68,29,45,9,3,234.48
+8,Sunil Narine,Kolkata Knight Riders ,Kolkata Knight Riders  vs Royal Challengers Bangalore ,9,not out,0,1,6,0,0,0
+9,Umesh Yadav,Kolkata Knight Riders ,Kolkata Knight Riders  vs Royal Challengers Bangalore ,9,not out,6,2,2,1,0,300
+1,Virat Kohli,Royal Challengers Bangalore ,Kolkata Knight Riders  vs Royal Challengers Bangalore ,9,b Narine,21,18,20,3,0,116.66
+2,Faf du Plessis (c),Royal Challengers Bangalore ,Kolkata Knight Riders  vs Royal Challengers Bangalore ,9,b Varun,23,12,24,2,2,191.66
+3,Michael Bracewell,Royal Challengers Bangalore ,Kolkata Knight Riders  vs Royal Challengers Bangalore ,9,c Rana b Thakur,19,18,33,1,1,105.55
+4,Glenn Maxwell,Royal Challengers Bangalore ,Kolkata Knight Riders  vs Royal Challengers Bangalore ,9,b Varun,5,7,9,1,0,71.42
+5,Harshal Patel,Royal Challengers Bangalore ,Kolkata Knight Riders  vs Royal Challengers Bangalore ,9,b Varun,0,2,3,0,0,0
+6,Shahbaz Ahmed,Royal Challengers Bangalore ,Kolkata Knight Riders  vs Royal Challengers Bangalore ,9,c Thakur b Narine,1,5,6,0,0,20
+7,Dinesh Karthik †,Royal Challengers Bangalore ,Kolkata Knight Riders  vs Royal Challengers Bangalore ,9,c Varun b Suyash Sharma,9,8,23,1,0,112.5
+8,Anuj Rawat,Royal Challengers Bangalore ,Kolkata Knight Riders  vs Royal Challengers Bangalore ,9,c Narine b Suyash Sharma,1,5,5,0,0,20
+9,David Willey,Royal Challengers Bangalore ,Kolkata Knight Riders  vs Royal Challengers Bangalore ,9,not out,20,20,28,2,0,100
+10,Karn Sharma,Royal Challengers Bangalore ,Kolkata Knight Riders  vs Royal Challengers Bangalore ,9,c Rana b Suyash Sharma,1,3,11,0,0,33.33
+1,Anmolpreet Singh †,Sunrisers Hyderabad,Sunrisers Hyderabad vs Lucknow Super Giants ,10,lbw b Pandya,31,26,38,3,1,119.23
+2,Mayank Agarwal,Sunrisers Hyderabad,Sunrisers Hyderabad vs Lucknow Super Giants ,10,c Stoinis b Pandya,8,7,14,1,0,114.28
+3,Rahul Tripathi,Sunrisers Hyderabad,Sunrisers Hyderabad vs Lucknow Super Giants ,10,c Mishra b Yash Thakur,34,41,65,4,0,82.92
+4,Aiden Markram (c),Sunrisers Hyderabad,Sunrisers Hyderabad vs Lucknow Super Giants ,10,b Pandya,0,1,2,0,0,0
+5,Harry Brook,Sunrisers Hyderabad,Sunrisers Hyderabad vs Lucknow Super Giants ,10,st †Pooran b Ravi Bishnoi,3,4,5,0,0,75
+6,Washington Sundar,Sunrisers Hyderabad,Sunrisers Hyderabad vs Lucknow Super Giants ,10,c Hooda b Mishra,16,28,40,0,0,57.14
+7,Abdul Samad,Sunrisers Hyderabad,Sunrisers Hyderabad vs Lucknow Super Giants ,10,not out,21,10,11,1,2,210
+8,Adil Rashid,Sunrisers Hyderabad,Sunrisers Hyderabad vs Lucknow Super Giants ,10,c Hooda b Mishra,4,3,3,1,0,133.33
+9,Umran Malik,Sunrisers Hyderabad,Sunrisers Hyderabad vs Lucknow Super Giants ,10,run out (Hooda/Unadkat),0,0,1,0,0,-
+10,Bhuvneshwar Kumar,Sunrisers Hyderabad,Sunrisers Hyderabad vs Lucknow Super Giants ,10,not out,0,0,4,0,0,-
+1,Kyle Mayers,Lucknow Super Giants ,Sunrisers Hyderabad vs Lucknow Super Giants ,10,c Agarwal b Fazalhaq Farooqi,13,14,22,2,0,92.85
+2,KL Rahul (c),Lucknow Super Giants ,Sunrisers Hyderabad vs Lucknow Super Giants ,10,lbw b Rashid,35,31,74,4,0,112.9
+3,Deepak Hooda,Lucknow Super Giants ,Sunrisers Hyderabad vs Lucknow Super Giants ,10,c & b Kumar,7,8,10,0,1,87.5
+4,Krunal Pandya,Lucknow Super Giants ,Sunrisers Hyderabad vs Lucknow Super Giants ,10,c †Anmolpreet Singh b Umran Malik,34,23,33,4,1,147.82
+5,Marcus Stoinis,Lucknow Super Giants ,Sunrisers Hyderabad vs Lucknow Super Giants ,10,not out,10,13,22,2,0,76.92
+6,Romario Shepherd,Lucknow Super Giants ,Sunrisers Hyderabad vs Lucknow Super Giants ,10,lbw b Rashid,0,1,3,0,0,0
+7,Nicholas Pooran †,Lucknow Super Giants ,Sunrisers Hyderabad vs Lucknow Super Giants ,10,not out,11,6,7,1,1,183.33
+1,Yashasvi Jaiswal,Rajasthan Royals,Rajasthan Royals vs Delhi Capitals ,11,c & b Mukesh Kumar,60,31,47,11,1,193.54
+2,Jos Buttler,Rajasthan Royals,Rajasthan Royals vs Delhi Capitals ,11,c & b Mukesh Kumar,79,51,94,11,1,154.9
+3,Sanju Samson (c)†,Rajasthan Royals,Rajasthan Royals vs Delhi Capitals ,11,c Nortje b Kuldeep Yadav,0,4,7,0,0,0
+4,Riyan Parag,Rajasthan Royals,Rajasthan Royals vs Delhi Capitals ,11,b Powell,7,11,16,0,0,63.63
+5,Shimron Hetmyer,Rajasthan Royals,Rajasthan Royals vs Delhi Capitals ,11,not out,39,21,32,1,4,185.71
+6,Dhruv Jurel,Rajasthan Royals,Rajasthan Royals vs Delhi Capitals ,11,not out,8,3,7,0,1,266.66
+1,Prithvi Shaw,Delhi Capitals ,Rajasthan Royals vs Delhi Capitals ,11,c †Samson b Boult,0,3,4,0,0,0
+2,David Warner (c),Delhi Capitals ,Rajasthan Royals vs Delhi Capitals ,11,lbw b Chahal,65,55,102,7,0,118.18
+3,Manish Pandey,Delhi Capitals ,Rajasthan Royals vs Delhi Capitals ,11,lbw b Boult,0,1,3,0,0,0
+4,Rilee Rossouw,Delhi Capitals ,Rajasthan Royals vs Delhi Capitals ,11,c Jaiswal b R Ashwin,14,12,24,2,0,116.66
+5,Lalit Yadav,Delhi Capitals ,Rajasthan Royals vs Delhi Capitals ,11,b Boult,38,24,35,5,0,158.33
+6,Axar Patel,Delhi Capitals ,Rajasthan Royals vs Delhi Capitals ,11,st †Samson b Chahal,2,6,12,0,0,33.33
+7,Rovman Powell,Delhi Capitals ,Rajasthan Royals vs Delhi Capitals ,11,c Hetmyer b R Ashwin,2,2,6,0,0,100
+8,Abishek Porel †,Delhi Capitals ,Rajasthan Royals vs Delhi Capitals ,11,c Hetmyer b Chahal,7,9,18,1,0,77.77
+9,Kuldeep Yadav,Delhi Capitals ,Rajasthan Royals vs Delhi Capitals ,11,not out,3,7,9,0,0,42.85
+10,Anrich Nortje,Delhi Capitals ,Rajasthan Royals vs Delhi Capitals ,11,b Sandeep Sharma,0,1,3,0,0,0
+11,Mukesh Kumar,Delhi Capitals ,Rajasthan Royals vs Delhi Capitals ,11,not out,1,1,3,0,0,100
+1,Rohit Sharma (c),Mumbai Indians ,Mumbai Indians  vs Chennai Super Kings ,12,b Deshpande,21,13,22,3,1,161.53
+2,Ishan Kishan †,Mumbai Indians ,Mumbai Indians  vs Chennai Super Kings ,12,c Pretorius b Jadeja,32,21,36,5,0,152.38
+3,Cameron Green,Mumbai Indians ,Mumbai Indians  vs Chennai Super Kings ,12,c & b Jadeja,12,11,23,1,0,109.09
+4,Suryakumar Yadav,Mumbai Indians ,Mumbai Indians  vs Chennai Super Kings ,12,c †Dhoni b Santner,1,2,6,0,0,50
+5,Tilak Varma,Mumbai Indians ,Mumbai Indians  vs Chennai Super Kings ,12,lbw b Jadeja,22,18,26,2,1,122.22
+6,Arshad Khan,Mumbai Indians ,Mumbai Indians  vs Chennai Super Kings ,12,lbw b Santner,2,4,4,0,0,50
+7,Tim David,Mumbai Indians ,Mumbai Indians  vs Chennai Super Kings ,12,c Rahane b Deshpande,31,22,35,1,2,140.9
+8,Tristan Stubbs,Mumbai Indians ,Mumbai Indians  vs Chennai Super Kings ,12,c Gaikwad b Magala,5,10,13,0,0,50
+9,Hrithik Shokeen,Mumbai Indians ,Mumbai Indians  vs Chennai Super Kings ,12,not out,18,13,20,3,0,138.46
+10,Piyush Chawla,Mumbai Indians ,Mumbai Indians  vs Chennai Super Kings ,12,not out,5,6,15,0,0,83.33
+1,Devon Conway,Chennai Super Kings ,Mumbai Indians  vs Chennai Super Kings ,12,b Behrendorff,0,4,4,0,0,0
+2,Ruturaj Gaikwad,Chennai Super Kings ,Mumbai Indians  vs Chennai Super Kings ,12,not out,40,36,80,2,1,111.11
+3,Ajinkya Rahane,Chennai Super Kings ,Mumbai Indians  vs Chennai Super Kings ,12,c Yadav b Chawla,61,27,33,7,3,225.92
+4,Shivam Dube,Chennai Super Kings ,Mumbai Indians  vs Chennai Super Kings ,12,b Kartikeya,28,26,28,2,1,107.69
+5,Ambati Rayudu,Chennai Super Kings ,Mumbai Indians  vs Chennai Super Kings ,12,not out,20,16,16,3,0,125
+1,Wriddhiman Saha †,Gujarat Titans,Gujarat Titans vs Kolkata Knight Riders,13,c Jagadeesan b Narine,17,17,24,3,0,100
+2,Shubman Gill,Gujarat Titans,Gujarat Titans vs Kolkata Knight Riders,13,c Yadav b Narine,39,31,55,5,0,125.8
+3,Sai Sudharsan,Gujarat Titans,Gujarat Titans vs Kolkata Knight Riders,13,c sub (AS Roy) b Narine,53,38,64,3,2,139.47
+4,Abhinav Manohar,Gujarat Titans,Gujarat Titans vs Kolkata Knight Riders,13,b Suyash Sharma,14,8,13,3,0,175
+5,Vijay Shankar,Gujarat Titans,Gujarat Titans vs Kolkata Knight Riders,13,not out,63,24,33,4,5,262.5
+1,Rahmanullah Gurbaz †,Kolkata Knight Riders,Gujarat Titans vs Kolkata Knight Riders,13,c Yash Dayal b Mohammed Shami,15,12,13,1,1,125
+2,Narayan Jagadeesan,Kolkata Knight Riders,Gujarat Titans vs Kolkata Knight Riders,13,c Manohar b Little,6,8,21,1,0,75
+3,Venkatesh Iyer,Kolkata Knight Riders,Gujarat Titans vs Kolkata Knight Riders,13,c Shubman Gill b Joseph,83,40,64,8,5,207.5
+4,Nitish Rana (c),Kolkata Knight Riders,Gujarat Titans vs Kolkata Knight Riders,13,c Mohammed Shami b Joseph,45,29,42,4,3,155.17
+5,Rinku Singh,Kolkata Knight Riders,Gujarat Titans vs Kolkata Knight Riders,13,not out,48,21,43,1,6,228.57
+6,Andre Russell,Kolkata Knight Riders,Gujarat Titans vs Kolkata Knight Riders,13,c sub (†KS Bharat) b Rashid Khan,1,2,6,0,0,50
+7,Sunil Narine,Kolkata Knight Riders,Gujarat Titans vs Kolkata Knight Riders,13,c sub (J Yadav) b Rashid Khan,0,1,2,0,0,0
+8,Shardul Thakur,Kolkata Knight Riders,Gujarat Titans vs Kolkata Knight Riders,13,lbw b Rashid Khan,0,1,3,0,0,0
+9,Umesh Yadav,Kolkata Knight Riders,Gujarat Titans vs Kolkata Knight Riders,13,not out,5,6,19,0,0,83.33
+1,Prabhsimran Singh,Punjab Kings , Punjab Kings vs Sunrisers Hyderabad ,14,lbw b Kumar,0,1,2,0,0,0
+2,Shikhar Dhawan (c),Punjab Kings , Punjab Kings vs Sunrisers Hyderabad ,14,not out,99,66,105,12,5,150
+3,Matthew Short,Punjab Kings , Punjab Kings vs Sunrisers Hyderabad ,14,lbw b Jansen,1,3,9,0,0,33.33
+4,Jitesh Sharma †,Punjab Kings , Punjab Kings vs Sunrisers Hyderabad ,14,c Markram b Jansen,4,9,13,1,0,44.44
+5,Sam Curran,Punjab Kings , Punjab Kings vs Sunrisers Hyderabad ,14,c Kumar b Markande,22,15,25,3,1,146.66
+6,Sikandar Raza,Punjab Kings , Punjab Kings vs Sunrisers Hyderabad ,14,c Agarwal b Umran Malik,5,6,5,0,0,83.33
+7,M Shahrukh Khan,Punjab Kings , Punjab Kings vs Sunrisers Hyderabad ,14,lbw b Markande,4,3,7,1,0,133.33
+8,Harpreet Brar,Punjab Kings , Punjab Kings vs Sunrisers Hyderabad ,14,b Umran Malik,1,2,5,0,0,50
+9,Rahul Chahar,Punjab Kings , Punjab Kings vs Sunrisers Hyderabad ,14,lbw b Markande,0,8,10,0,0,0
+10,Nathan Ellis,Punjab Kings , Punjab Kings vs Sunrisers Hyderabad ,14,b Markande,0,5,10,0,0,0
+11,Mohit Rathee,Punjab Kings , Punjab Kings vs Sunrisers Hyderabad ,14,not out,1,2,25,0,0,50
+1,Harry Brook,Sunrisers Hyderabad , Punjab Kings vs Sunrisers Hyderabad ,14,b Arshdeep Singh,13,14,18,3,0,92.85
+2,Mayank Agarwal,Sunrisers Hyderabad , Punjab Kings vs Sunrisers Hyderabad ,14,c Curran b Chahar,21,20,38,3,0,105
+3,Rahul Tripathi,Sunrisers Hyderabad , Punjab Kings vs Sunrisers Hyderabad ,14,not out,74,48,61,10,3,154.16
+4,Aiden Markram (c),Sunrisers Hyderabad , Punjab Kings vs Sunrisers Hyderabad ,14,not out,37,21,41,6,0,176.19
+1,Virat Kohli,Royal Challengers Bangalore,Royal Challengers Bangalore vs Lucknow Super Giants ,15,c Stoinis b Mishra,61,44,50,4,4,138.63
+2,Faf du Plessis (c),Royal Challengers Bangalore,Royal Challengers Bangalore vs Lucknow Super Giants ,15,not out,79,46,104,5,5,171.73
+3,Glenn Maxwell,Royal Challengers Bangalore,Royal Challengers Bangalore vs Lucknow Super Giants ,15,b Wood,59,29,54,3,6,203.44
+4,Dinesh Karthik †,Royal Challengers Bangalore,Royal Challengers Bangalore vs Lucknow Super Giants ,15,not out,1,1,2,0,0,100
+1,Kyle Mayers,Lucknow Super Giants ,Royal Challengers Bangalore vs Lucknow Super Giants ,15,b Mohammed Siraj,0,3,5,0,0,0
+2,KL Rahul (c),Lucknow Super Giants ,Royal Challengers Bangalore vs Lucknow Super Giants ,15,c Kohli b Mohammed Siraj,18,20,61,1,0,90
+3,Deepak Hooda,Lucknow Super Giants ,Royal Challengers Bangalore vs Lucknow Super Giants ,15,c †Karthik b Parnell,9,10,19,1,0,90
+4,Krunal Pandya,Lucknow Super Giants ,Royal Challengers Bangalore vs Lucknow Super Giants ,15,c †Karthik b Parnell,0,2,3,0,0,0
+5,Marcus Stoinis,Lucknow Super Giants ,Royal Challengers Bangalore vs Lucknow Super Giants ,15,c Shahbaz Ahmed b Sharma,65,30,32,6,5,216.66
+6,Nicholas Pooran †,Lucknow Super Giants ,Royal Challengers Bangalore vs Lucknow Super Giants ,15,c Shahbaz Ahmed b Mohammed Siraj,62,19,38,4,7,326.31
+7,Ayush Badoni,Lucknow Super Giants ,Royal Challengers Bangalore vs Lucknow Super Giants ,15,hit wicket b Parnell,30,24,45,4,0,125
+8,Jaydev Unadkat,Lucknow Super Giants ,Royal Challengers Bangalore vs Lucknow Super Giants ,15,c du Plessis b Patel,9,7,19,1,0,128.57
+9,Mark Wood,Lucknow Super Giants ,Royal Challengers Bangalore vs Lucknow Super Giants ,15,b Patel,1,2,6,0,0,50
+10,Ravi Bishnoi,Lucknow Super Giants ,Royal Challengers Bangalore vs Lucknow Super Giants ,15,not out,3,2,8,0,0,150
+11,Avesh Khan,Lucknow Super Giants ,Royal Challengers Bangalore vs Lucknow Super Giants ,15,not out,0,1,3,0,0,0
+1,David Warner (c),Delhi Capitals ,Delhi Capitals vs Mumbai Indians ,16,c Meredith b Behrendorff,51,47,94,6,0,108.51
+2,Prithvi Shaw,Delhi Capitals ,Delhi Capitals vs Mumbai Indians ,16,c Green b Shokeen,15,10,17,3,0,150
+3,Manish Pandey,Delhi Capitals ,Delhi Capitals vs Mumbai Indians ,16,c Behrendorff b Chawla,26,18,24,5,0,144.44
+4,Yash Dhull,Delhi Capitals ,Delhi Capitals vs Mumbai Indians ,16,c Wadhera b Meredith,2,4,7,0,0,50
+5,Rovman Powell,Delhi Capitals ,Delhi Capitals vs Mumbai Indians ,16,lbw b Chawla,4,4,6,1,0,100
+6,Lalit Yadav,Delhi Capitals ,Delhi Capitals vs Mumbai Indians ,16,b Chawla,2,4,10,0,0,50
+7,Axar Patel,Delhi Capitals ,Delhi Capitals vs Mumbai Indians ,16,c Arshad Khan b Behrendorff,54,25,29,4,5,216
+8,Abishek Porel †,Delhi Capitals ,Delhi Capitals vs Mumbai Indians ,16,c Green b Behrendorff,1,3,8,0,0,33.33
+9,Kuldeep Yadav,Delhi Capitals ,Delhi Capitals vs Mumbai Indians ,16,run out (Wadhera),0,1,2,0,0,0
+10,Anrich Nortje,Delhi Capitals ,Delhi Capitals vs Mumbai Indians ,16,b Meredith,5,3,7,1,0,166.66
+11,Mustafizur Rahman,Delhi Capitals ,Delhi Capitals vs Mumbai Indians ,16,not out,1,1,5,0,0,100
+1,Rohit Sharma (c),Mumbai Indians ,Delhi Capitals vs Mumbai Indians ,16,c †Abishek Porel b Mustafizur Rahman,65,45,86,6,4,144.44
+2,Ishan Kishan †,Mumbai Indians ,Delhi Capitals vs Mumbai Indians ,16,run out (Mukesh Kumar/Lalit Yadav),31,26,32,6,0,119.23
+3,Tilak Varma,Mumbai Indians ,Delhi Capitals vs Mumbai Indians ,16,c Pandey b Mukesh Kumar,41,29,42,1,4,141.37
+4,Suryakumar Yadav,Mumbai Indians ,Delhi Capitals vs Mumbai Indians ,16,c Kuldeep Yadav b Mukesh Kumar,0,1,3,0,0,0
+5,Tim David,Mumbai Indians ,Delhi Capitals vs Mumbai Indians ,16,not out,13,11,27,0,1,118.18
+6,Cameron Green,Mumbai Indians ,Delhi Capitals vs Mumbai Indians ,16,not out,17,8,20,1,1,212.5
+1,Yashasvi Jaiswal,Rajasthan Royals,Rajasthan Royals vs Chennai Super Kings ,17,c Dube b Deshpande,10,8,9,2,0,125
+2,Jos Buttler,Rajasthan Royals,Rajasthan Royals vs Chennai Super Kings ,17,b Ali,52,36,79,1,3,144.44
+3,Devdutt Padikkal,Rajasthan Royals,Rajasthan Royals vs Chennai Super Kings ,17,c Conway b Jadeja,38,26,33,5,0,146.15
+4,Sanju Samson (c)†,Rajasthan Royals,Rajasthan Royals vs Chennai Super Kings ,17,b Jadeja,0,2,2,0,0,0
+5,Ravichandran Ashwin,Rajasthan Royals,Rajasthan Royals vs Chennai Super Kings ,17,c Magala b Akash Singh,30,22,29,1,2,136.36
+6,Shimron Hetmyer,Rajasthan Royals,Rajasthan Royals vs Chennai Super Kings ,17,not out,30,18,28,2,2,166.66
+7,Dhruv Jurel,Rajasthan Royals,Rajasthan Royals vs Chennai Super Kings ,17,c Dube b Akash Singh,4,6,15,0,0,66.66
+8,Jason Holder,Rajasthan Royals,Rajasthan Royals vs Chennai Super Kings ,17,c Conway b Deshpande,0,1,6,0,0,0
+9,Adam Zampa,Rajasthan Royals,Rajasthan Royals vs Chennai Super Kings ,17,run out (Theekshana/†Dhoni),1,1,2,0,0,100
+1,Ruturaj Gaikwad,Chennai Super Kings ,Rajasthan Royals vs Chennai Super Kings ,17,c Jaiswal b Sandeep Sharma,8,10,14,1,0,80
+2,Devon Conway,Chennai Super Kings ,Rajasthan Royals vs Chennai Super Kings ,17,c Jaiswal b Chahal,50,38,82,6,0,131.57
+3,Ajinkya Rahane,Chennai Super Kings ,Rajasthan Royals vs Chennai Super Kings ,17,lbw b Ashwin,31,19,38,2,1,163.15
+4,Shivam Dube,Chennai Super Kings ,Rajasthan Royals vs Chennai Super Kings ,17,lbw b Ashwin,8,9,13,1,0,88.88
+5,Moeen Ali,Chennai Super Kings ,Rajasthan Royals vs Chennai Super Kings ,17,c Sandeep Sharma b Zampa,7,10,12,0,0,70
+6,Ambati Rayudu,Chennai Super Kings ,Rajasthan Royals vs Chennai Super Kings ,17,c Hetmyer b Chahal,1,2,4,0,0,50
+7,Ravindra Jadeja,Chennai Super Kings ,Rajasthan Royals vs Chennai Super Kings ,17,not out,25,15,35,1,2,166.66
+8,MS Dhoni (c)†,Chennai Super Kings ,Rajasthan Royals vs Chennai Super Kings ,17,not out,32,17,30,1,3,188.23
+1,Prabhsimran Singh,Punjab Kings ,Punjab Kings  vs Gujarat Titans,18,c Rashid Khan b Mohammed Shami,0,2,3,0,0,0
+2,Shikhar Dhawan (c),Punjab Kings ,Punjab Kings  vs Gujarat Titans,18,c Joseph b Little,8,8,20,2,0,100
+3,Matthew Short,Punjab Kings ,Punjab Kings  vs Gujarat Titans,18,b Rashid Khan,36,24,38,6,1,150
+4,Bhanuka Rajapaksa,Punjab Kings ,Punjab Kings  vs Gujarat Titans,18,c Shubman Gill b Joseph,20,26,73,1,0,76.92
+5,Jitesh Sharma †,Punjab Kings ,Punjab Kings  vs Gujarat Titans,18,c †Saha b Sharma,25,23,29,5,0,108.69
+6,Sam Curran,Punjab Kings ,Punjab Kings  vs Gujarat Titans,18,c Shubman Gill b Sharma,22,22,33,1,1,100
+7,M Shahrukh Khan,Punjab Kings ,Punjab Kings  vs Gujarat Titans,18,run out (Miller/†Saha),22,9,19,1,2,244.44
+8,Harpreet Brar,Punjab Kings ,Punjab Kings  vs Gujarat Titans,18,not out,8,5,12,0,1,160
+9,Rishi Dhawan,Punjab Kings ,Punjab Kings  vs Gujarat Titans,18,run out (†Saha),1,1,4,0,0,100
+1,Wriddhiman Saha †,Gujarat Titans,Punjab Kings  vs Gujarat Titans,18,c Short b Rabada,30,19,-,5,0,157.89
+2,Shubman Gill,Gujarat Titans,Punjab Kings  vs Gujarat Titans,18,b Curran,67,49,-,7,1,136.73
+3,Sai Sudharsan,Gujarat Titans,Punjab Kings  vs Gujarat Titans,18,c Prabhsimran Singh b Arshdeep Singh,19,20,-,2,0,95
+4,Hardik Pandya (c),Gujarat Titans,Punjab Kings  vs Gujarat Titans,18,c Curran b Harpreet Brar,8,11,-,1,0,72.72
+5,David Miller,Gujarat Titans,Punjab Kings  vs Gujarat Titans,18,not out,17,18,-,1,0,94.44
+6,Rahul Tewatia,Gujarat Titans,Punjab Kings  vs Gujarat Titans,18,not out,5,2,-,1,0,250
+1,Harry Brook,Sunrisers Hyderabad ,Sunrisers Hyderabad vs Kolkata Knight Riders,19,not out,100,55,99,12,3,181.81
+2,Mayank Agarwal,Sunrisers Hyderabad ,Sunrisers Hyderabad vs Kolkata Knight Riders,19,c Varun b Russell,9,13,22,0,0,69.23
+3,Rahul Tripathi,Sunrisers Hyderabad ,Sunrisers Hyderabad vs Kolkata Knight Riders,19,c †Rahmanullah Gurbaz b Russell,9,4,6,2,0,225
+4,Aiden Markram (c),Sunrisers Hyderabad ,Sunrisers Hyderabad vs Kolkata Knight Riders,19,c Russell b Varun,50,26,32,2,5,192.3
+5,Abhishek Sharma,Sunrisers Hyderabad ,Sunrisers Hyderabad vs Kolkata Knight Riders,19,c Thakur b Russell,32,17,28,3,2,188.23
+6,Heinrich Klaasen †,Sunrisers Hyderabad ,Sunrisers Hyderabad vs Kolkata Knight Riders,19,not out,16,6,13,2,1,266.66
+1,Rahmanullah Gurbaz †,Kolkata Knight Riders,Sunrisers Hyderabad vs Kolkata Knight Riders,19,c Umran Malik b Kumar,0,3,3,0,0,0
+2,Narayan Jagadeesan,Kolkata Knight Riders,Sunrisers Hyderabad vs Kolkata Knight Riders,19,c sub (GD Phillips) b Markande,36,21,41,5,1,171.42
+3,Venkatesh Iyer,Kolkata Knight Riders,Sunrisers Hyderabad vs Kolkata Knight Riders,19,c Markram b Jansen,10,11,15,2,0,90.9
+4,Sunil Narine,Kolkata Knight Riders,Sunrisers Hyderabad vs Kolkata Knight Riders,19,c Markram b Jansen,0,1,2,0,0,0
+5,Nitish Rana (c),Kolkata Knight Riders,Sunrisers Hyderabad vs Kolkata Knight Riders,19,c Washington Sundar b Natarajan,75,41,67,5,6,182.92
+6,Andre Russell,Kolkata Knight Riders,Sunrisers Hyderabad vs Kolkata Knight Riders,19,c Jansen b Markande,3,6,10,0,0,50
+7,Rinku Singh,Kolkata Knight Riders,Sunrisers Hyderabad vs Kolkata Knight Riders,19,not out,58,31,51,4,4,187.09
+8,Shardul Thakur,Kolkata Knight Riders,Sunrisers Hyderabad vs Kolkata Knight Riders,19,c Washington Sundar b Umran Malik,12,7,15,2,0,171.42
+9,Umesh Yadav,Kolkata Knight Riders,Sunrisers Hyderabad vs Kolkata Knight Riders,19,not out,1,1,4,0,0,100
+1,Virat Kohli,Royal Challengers Bangalore,Royal Challengers Bangalore vs Delhi Capitals ,20,c Dhull b Lalit Yadav,50,34,46,6,1,147.05
+2,Faf du Plessis (c),Royal Challengers Bangalore,Royal Challengers Bangalore vs Delhi Capitals ,20,c Aman Hakim Khan b Marsh,22,16,21,3,1,137.5
+3,Mahipal Lomror,Royal Challengers Bangalore,Royal Challengers Bangalore vs Delhi Capitals ,20,c †Abishek Porel b Marsh,26,18,38,0,2,144.44
+4,Glenn Maxwell,Royal Challengers Bangalore,Royal Challengers Bangalore vs Delhi Capitals ,20,c Warner b Kuldeep Yadav,24,14,25,0,3,171.42
+5,Harshal Patel,Royal Challengers Bangalore,Royal Challengers Bangalore vs Delhi Capitals ,20,c †Abishek Porel b Patel,6,4,9,0,1,150
+6,Shahbaz Ahmed,Royal Challengers Bangalore,Royal Challengers Bangalore vs Delhi Capitals ,20,not out,20,12,31,3,0,166.66
+7,Dinesh Karthik †,Royal Challengers Bangalore,Royal Challengers Bangalore vs Delhi Capitals ,20,c Lalit Yadav b Kuldeep Yadav,0,1,2,0,0,0
+8,Anuj Rawat,Royal Challengers Bangalore,Royal Challengers Bangalore vs Delhi Capitals ,20,not out,15,22,26,1,0,68.18
+1,David Warner (c),Delhi Capitals ,Royal Challengers Bangalore vs Delhi Capitals ,20,c Kohli b Vyshak,19,13,33,4,0,146.15
+2,Prithvi Shaw,Delhi Capitals ,Royal Challengers Bangalore vs Delhi Capitals ,20,run out (Anuj Rawat),0,2,4,0,0,0
+3,Mitchell Marsh,Delhi Capitals ,Royal Challengers Bangalore vs Delhi Capitals ,20,c Kohli b Parnell,0,4,7,0,0,0
+4,Yash Dhull,Delhi Capitals ,Royal Challengers Bangalore vs Delhi Capitals ,20,lbw b Mohammed Siraj,1,4,6,0,0,25
+5,Manish Pandey,Delhi Capitals ,Royal Challengers Bangalore vs Delhi Capitals ,20,lbw b de Silva,50,38,59,5,1,131.57
+6,Abishek Porel †,Delhi Capitals ,Royal Challengers Bangalore vs Delhi Capitals ,20,c Parnell b Patel,5,8,17,0,0,62.5
+7,Axar Patel,Delhi Capitals ,Royal Challengers Bangalore vs Delhi Capitals ,20,c Mohammed Siraj b Vyshak,21,14,18,3,0,150
+8,Aman Hakim Khan,Delhi Capitals ,Royal Challengers Bangalore vs Delhi Capitals ,20,c Kohli b Mohammed Siraj,18,10,27,1,1,180
+9,Lalit Yadav,Delhi Capitals ,Royal Challengers Bangalore vs Delhi Capitals ,20,c Maxwell b Vyshak,4,7,10,0,0,57.14
+10,Anrich Nortje,Delhi Capitals ,Royal Challengers Bangalore vs Delhi Capitals ,20,not out,23,14,19,4,0,164.28
+11,Kuldeep Yadav,Delhi Capitals ,Royal Challengers Bangalore vs Delhi Capitals ,20,not out,7,6,10,1,0,116.66
+1,KL Rahul (c),Lucknow Super Giants ,Lucknow Super Giants vs Punjab Kings ,21,c sub (NT Ellis) b Arshdeep Singh,74,56,101,8,1,132.14
+2,Kyle Mayers,Lucknow Super Giants ,Lucknow Super Giants vs Punjab Kings ,21,c Harpreet Singh b Harpreet Brar,29,23,34,1,3,126.08
+3,Deepak Hooda,Lucknow Super Giants ,Lucknow Super Giants vs Punjab Kings ,21,lbw b Sikandar Raza,2,3,7,0,0,66.66
+4,Krunal Pandya,Lucknow Super Giants ,Lucknow Super Giants vs Punjab Kings ,21,c Shahrukh Khan b Rabada,18,17,30,2,0,105.88
+5,Nicholas Pooran †,Lucknow Super Giants ,Lucknow Super Giants vs Punjab Kings ,21,c Shahrukh Khan b Rabada,0,1,5,0,0,0
+6,Marcus Stoinis,Lucknow Super Giants ,Lucknow Super Giants vs Punjab Kings ,21,c †Sharma b Curran,15,11,22,0,2,136.36
+7,Ayush Badoni,Lucknow Super Giants ,Lucknow Super Giants vs Punjab Kings ,21,not out,5,6,17,0,0,83.33
+8,Krishnappa Gowtham,Lucknow Super Giants ,Lucknow Super Giants vs Punjab Kings ,21,c Sikandar Raza b Curran,1,2,7,0,0,50
+9,Yudhvir Singh,Lucknow Super Giants ,Lucknow Super Giants vs Punjab Kings ,21,c Shahrukh Khan b Curran,0,1,3,0,0,0
+10,Ravi Bishnoi,Lucknow Super Giants ,Lucknow Super Giants vs Punjab Kings ,21,not out,3,1,3,0,0,300
+1,Atharva Taide,Punjab Kings ,Lucknow Super Giants vs Punjab Kings ,21,c Avesh Khan b Yudhvir Singh,0,3,3,0,0,0
+2,Prabhsimran Singh,Punjab Kings ,Lucknow Super Giants vs Punjab Kings ,21,b Yudhvir Singh,4,4,12,1,0,100
+3,Matthew Short,Punjab Kings ,Lucknow Super Giants vs Punjab Kings ,21,c Stoinis b Gowtham,34,22,30,5,1,154.54
+4,Harpreet Singh,Punjab Kings ,Lucknow Super Giants vs Punjab Kings ,21,c sub (PN Mankad) b Pandya,22,22,41,3,0,100
+5,Sikandar Raza,Punjab Kings ,Lucknow Super Giants vs Punjab Kings ,21,c Stoinis b Ravi Bishnoi,57,41,62,4,3,139.02
+6,Sam Curran (c),Punjab Kings ,Lucknow Super Giants vs Punjab Kings ,21,c Pandya b Ravi Bishnoi,6,6,15,1,0,100
+7,Jitesh Sharma †,Punjab Kings ,Lucknow Super Giants vs Punjab Kings ,21,c Rahul b Wood,2,4,10,0,0,50
+8,M Shahrukh Khan,Punjab Kings ,Lucknow Super Giants vs Punjab Kings ,21,not out,23,10,26,1,2,230
+9,Harpreet Brar,Punjab Kings ,Lucknow Super Giants vs Punjab Kings ,21,c †Pooran b Wood,6,4,10,1,0,150
+10,Kagiso Rabada,Punjab Kings ,Lucknow Super Giants vs Punjab Kings ,21,not out,0,1,4,0,0,0
+1,Rahmanullah Gurbaz †,Kolkata Knight Riders,Kolkata Knight Riders vs Mumbai Indians ,22,c Jansen b Chawla,8,12,39,0,0,66.66
+2,Narayan Jagadeesan,Kolkata Knight Riders,Kolkata Knight Riders vs Mumbai Indians ,22,c Shokeen b Green,0,5,12,0,0,0
+3,Venkatesh Iyer,Kolkata Knight Riders,Kolkata Knight Riders vs Mumbai Indians ,22,c Jansen b Meredith,104,51,82,6,9,203.92
+4,Nitish Rana (c),Kolkata Knight Riders,Kolkata Knight Riders vs Mumbai Indians ,22,c sub (Ramandeep Singh) b Shokeen,5,10,13,0,0,50
+5,Shardul Thakur,Kolkata Knight Riders,Kolkata Knight Riders vs Mumbai Indians ,22,c Tilak Varma b Shokeen,13,11,23,1,0,118.18
+6,Rinku Singh,Kolkata Knight Riders,Kolkata Knight Riders vs Mumbai Indians ,22,c Wadhera b Jansen,18,18,32,2,0,100
+7,Andre Russell,Kolkata Knight Riders,Kolkata Knight Riders vs Mumbai Indians ,22,not out,21,11,18,3,1,190.9
+8,Sunil Narine,Kolkata Knight Riders,Kolkata Knight Riders vs Mumbai Indians ,22,not out,2,2,9,0,0,100
+1,Rohit Sharma,Mumbai Indians ,Kolkata Knight Riders vs Mumbai Indians ,22,c Yadav b Suyash Sharma,20,13,25,1,2,153.84
+2,Ishan Kishan †,Mumbai Indians ,Kolkata Knight Riders vs Mumbai Indians ,22,b Varun,58,25,39,5,5,232
+3,Suryakumar Yadav (c),Mumbai Indians ,Kolkata Knight Riders vs Mumbai Indians ,22,c †Rahmanullah Gurbaz b Thakur,43,25,63,4,3,172
+4,Tilak Varma,Mumbai Indians ,Kolkata Knight Riders vs Mumbai Indians ,22,b Suyash Sharma,30,25,32,3,1,120
+5,Tim David,Mumbai Indians ,Kolkata Knight Riders vs Mumbai Indians ,22,not out,24,13,27,1,2,184.61
+6,Nehal Wadhera,Mumbai Indians ,Kolkata Knight Riders vs Mumbai Indians ,22,c †Rahmanullah Gurbaz b Ferguson,6,4,7,1,0,150
+7,Cameron Green,Mumbai Indians ,Kolkata Knight Riders vs Mumbai Indians ,22,not out,1,1,3,0,0,100
+1,Wriddhiman Saha †,Gujarat Titans,Gujarat Titans vs Rajasthan Royals,23,c & b Boult,4,3,4,1,0,133.33
+2,Shubman Gill,Gujarat Titans,Gujarat Titans vs Rajasthan Royals,23,c Buttler b Sandeep Sharma,45,34,70,4,1,132.35
+3,Sai Sudharsan,Gujarat Titans,Gujarat Titans vs Rajasthan Royals,23,run out (Buttler/†Samson),20,19,23,2,0,105.26
+4,Hardik Pandya (c),Gujarat Titans,Gujarat Titans vs Rajasthan Royals,23,c Jaiswal b Chahal,28,19,22,3,1,147.36
+5,David Miller,Gujarat Titans,Gujarat Titans vs Rajasthan Royals,23,c Hetmyer b Sandeep Sharma,46,30,43,3,2,153.33
+6,Abhinav Manohar,Gujarat Titans,Gujarat Titans vs Rajasthan Royals,23,c Padikkal b Zampa,27,13,17,0,3,207.69
+7,Rahul Tewatia,Gujarat Titans,Gujarat Titans vs Rajasthan Royals,23,not out,1,1,10,0,0,100
+8,Rashid Khan,Gujarat Titans,Gujarat Titans vs Rajasthan Royals,23,run out (Buttler/Sandeep Sharma),1,1,4,0,0,100
+9,Alzarri Joseph,Gujarat Titans,Gujarat Titans vs Rajasthan Royals,23,not out,0,0,2,0,0,-
+1,Yashasvi Jaiswal,Rajasthan Royals,Gujarat Titans vs Rajasthan Royals,23,c Shubman Gill b Pandya,1,7,9,0,0,14.28
+2,Jos Buttler,Rajasthan Royals,Gujarat Titans vs Rajasthan Royals,23,b Mohammed Shami,0,5,14,0,0,0
+3,Devdutt Padikkal,Rajasthan Royals,Gujarat Titans vs Rajasthan Royals,23,c Sharma b Rashid Khan,26,25,38,2,2,104
+4,Sanju Samson (c)†,Rajasthan Royals,Gujarat Titans vs Rajasthan Royals,23,c Miller b Noor Ahmad,60,32,61,3,6,187.5
+5,Riyan Parag,Rajasthan Royals,Gujarat Titans vs Rajasthan Royals,23,c Miller b Rashid Khan,5,7,10,0,0,71.42
+6,Shimron Hetmyer,Rajasthan Royals,Gujarat Titans vs Rajasthan Royals,23,not out,56,26,44,2,5,215.38
+7,Dhruv Jurel,Rajasthan Royals,Gujarat Titans vs Rajasthan Royals,23,c Sharma b Mohammed Shami,18,10,19,2,1,180
+8,Ravichandran Ashwin,Rajasthan Royals,Gujarat Titans vs Rajasthan Royals,23,c Tewatia b Mohammed Shami,10,3,4,1,1,333.33
+9,Trent Boult,Rajasthan Royals,Gujarat Titans vs Rajasthan Royals,23,not out,0,1,3,0,0,0
+1,Ruturaj Gaikwad,Chennai Super Kings ,Chennai Super Kings vs Royal Challengers Bangalore,24,c Parnell b Mohammed Siraj,3,6,12,0,0,50
+2,Devon Conway,Chennai Super Kings ,Chennai Super Kings vs Royal Challengers Bangalore,24,b Patel,83,45,73,6,6,184.44
+3,Ajinkya Rahane,Chennai Super Kings ,Chennai Super Kings vs Royal Challengers Bangalore,24,b de Silva,37,20,33,3,2,185
+4,Shivam Dube,Chennai Super Kings ,Chennai Super Kings vs Royal Challengers Bangalore,24,c Mohammed Siraj b Parnell,52,27,35,2,5,192.59
+5,Ambati Rayudu,Chennai Super Kings ,Chennai Super Kings vs Royal Challengers Bangalore,24,c †Karthik b Vyshak,14,6,11,1,1,233.33
+6,Moeen Ali,Chennai Super Kings ,Chennai Super Kings vs Royal Challengers Bangalore,24,not out,19,9,24,0,2,211.11
+7,Ravindra Jadeja,Chennai Super Kings ,Chennai Super Kings vs Royal Challengers Bangalore,24,c Prabhudessai b Maxwell,10,8,17,0,1,125
+8,MS Dhoni (c)†,Chennai Super Kings ,Chennai Super Kings vs Royal Challengers Bangalore,24,not out,1,1,2,0,0,100
+1,Virat Kohli,Royal Challengers Bangalore,Chennai Super Kings vs Royal Challengers Bangalore,24,b Akash Singh,6,4,3,1,0,150
+2,Faf du Plessis (c),Royal Challengers Bangalore,Chennai Super Kings vs Royal Challengers Bangalore,24,c †Dhoni b Ali,62,33,64,5,4,187.87
+3,Mahipal Lomror,Royal Challengers Bangalore,Chennai Super Kings vs Royal Challengers Bangalore,24,c Gaikwad b Deshpande,0,5,7,0,0,0
+4,Glenn Maxwell,Royal Challengers Bangalore,Chennai Super Kings vs Royal Challengers Bangalore,24,c †Dhoni b Theekshana,76,36,46,3,8,211.11
+5,Shahbaz Ahmed,Royal Challengers Bangalore,Chennai Super Kings vs Royal Challengers Bangalore,24,c Gaikwad b Pathirana,12,10,29,0,1,120
+6,Dinesh Karthik †,Royal Challengers Bangalore,Chennai Super Kings vs Royal Challengers Bangalore,24,c Theekshana b Deshpande,28,14,15,3,1,200
+7,Suyash Prabhudessai,Royal Challengers Bangalore,Chennai Super Kings vs Royal Challengers Bangalore,24,c Jadeja b Pathirana,19,11,20,0,2,172.72
+8,Wayne Parnell,Royal Challengers Bangalore,Chennai Super Kings vs Royal Challengers Bangalore,24,c Dube b Deshpande,2,5,7,0,0,40
+9,Wanindu Hasaranga,Royal Challengers Bangalore,Chennai Super Kings vs Royal Challengers Bangalore,24,not out,2,2,10,0,0,100
+1,Rohit Sharma (c),Mumbai Indians ,Mumbai Indians vs Sunrisers Hyderabad ,25,c Markram b Natarajan,28,18,22,6,0,155.55
+2,Ishan Kishan †,Mumbai Indians ,Mumbai Indians vs Sunrisers Hyderabad ,25,c Markram b Jansen,38,31,51,3,2,122.58
+3,Cameron Green,Mumbai Indians ,Mumbai Indians vs Sunrisers Hyderabad ,25,not out,64,40,75,6,2,160
+4,Suryakumar Yadav,Mumbai Indians ,Mumbai Indians vs Sunrisers Hyderabad ,25,c Markram b Jansen,7,3,6,0,1,233.33
+5,Tilak Varma,Mumbai Indians ,Mumbai Indians vs Sunrisers Hyderabad ,25,c Agarwal b Kumar,37,17,24,2,4,217.64
+6,Tim David,Mumbai Indians ,Mumbai Indians vs Sunrisers Hyderabad ,25,run out (Abhishek Sharma/Natarajan),16,11,19,2,0,145.45
+1,Harry Brook,Sunrisers Hyderabad ,Mumbai Indians vs Sunrisers Hyderabad ,25,c Yadav b Behrendorff,9,7,8,2,0,128.57
+2,Mayank Agarwal,Sunrisers Hyderabad ,Mumbai Indians vs Sunrisers Hyderabad ,25,c David b Meredith,48,41,76,4,1,117.07
+3,Rahul Tripathi,Sunrisers Hyderabad ,Mumbai Indians vs Sunrisers Hyderabad ,25,c †Ishan Kishan b Behrendorff,7,5,13,1,0,140
+4,Aiden Markram (c),Sunrisers Hyderabad ,Mumbai Indians vs Sunrisers Hyderabad ,25,c Shokeen b Green,22,17,26,1,1,129.41
+5,Abhishek Sharma,Sunrisers Hyderabad ,Mumbai Indians vs Sunrisers Hyderabad ,25,c David b Chawla,1,2,5,0,0,50
+6,Heinrich Klaasen †,Sunrisers Hyderabad ,Mumbai Indians vs Sunrisers Hyderabad ,25,c David b Chawla,36,16,24,4,2,225
+7,Abdul Samad,Sunrisers Hyderabad ,Mumbai Indians vs Sunrisers Hyderabad ,25,run out (Shokeen/†Ishan Kishan),9,12,34,1,0,75
+8,Marco Jansen,Sunrisers Hyderabad ,Mumbai Indians vs Sunrisers Hyderabad ,25,c David b Meredith,13,6,11,3,0,216.66
+9,Washington Sundar,Sunrisers Hyderabad ,Mumbai Indians vs Sunrisers Hyderabad ,25,run out (David),10,6,8,2,0,166.66
+10,Bhuvneshwar Kumar,Sunrisers Hyderabad ,Mumbai Indians vs Sunrisers Hyderabad ,25,c Sharma b Tendulkar,2,5,16,0,0,40
+11,Mayank Markande,Sunrisers Hyderabad ,Mumbai Indians vs Sunrisers Hyderabad ,25,not out,2,2,4,0,0,100
+1,KL Rahul (c),Lucknow Super Giants ,Lucknow Super Giants  vs Rajasthan Royals,26,c Buttler b Holder,39,32,51,4,1,121.87
+2,Kyle Mayers,Lucknow Super Giants ,Lucknow Super Giants  vs Rajasthan Royals,26,b Ashwin,51,42,69,4,3,121.42
+3,Ayush Badoni,Lucknow Super Giants ,Lucknow Super Giants  vs Rajasthan Royals,26,b Boult,1,4,6,0,0,25
+4,Deepak Hooda,Lucknow Super Giants ,Lucknow Super Giants  vs Rajasthan Royals,26,c Hetmyer b Ashwin,2,4,7,0,0,50
+5,Marcus Stoinis,Lucknow Super Giants ,Lucknow Super Giants  vs Rajasthan Royals,26,c †Samson b Sandeep Sharma,21,16,31,2,0,131.25
+6,Nicholas Pooran †,Lucknow Super Giants ,Lucknow Super Giants  vs Rajasthan Royals,26,run out (†Samson),29,20,27,2,1,145
+7,Krunal Pandya,Lucknow Super Giants ,Lucknow Super Giants  vs Rajasthan Royals,26,not out,4,2,4,1,0,200
+8,Yudhvir Singh,Lucknow Super Giants ,Lucknow Super Giants  vs Rajasthan Royals,26,run out (Hetmyer/†Samson),1,1,2,0,0,100
+1,Yashasvi Jaiswal,Rajasthan Royals,Lucknow Super Giants  vs Rajasthan Royals,26,c Avesh Khan b Stoinis,44,35,60,4,2,125.71
+2,Jos Buttler,Rajasthan Royals,Lucknow Super Giants  vs Rajasthan Royals,26,c Ravi Bishnoi b Stoinis,40,41,73,4,1,97.56
+3,Sanju Samson (c)†,Rajasthan Royals,Lucknow Super Giants  vs Rajasthan Royals,26,run out (Mishra/†Pooran),2,4,8,0,0,50
+4,Devdutt Padikkal,Rajasthan Royals,Lucknow Super Giants  vs Rajasthan Royals,26,c †Pooran b Avesh Khan,26,21,36,4,0,123.8
+5,Shimron Hetmyer,Rajasthan Royals,Lucknow Super Giants  vs Rajasthan Royals,26,c Rahul b Avesh Khan,2,5,12,0,0,40
+6,Riyan Parag,Rajasthan Royals,Lucknow Super Giants  vs Rajasthan Royals,26,not out,15,12,24,1,1,125
+7,Dhruv Jurel,Rajasthan Royals,Lucknow Super Giants  vs Rajasthan Royals,26,c Hooda b Avesh Khan,0,1,2,0,0,0
+8,Ravichandran Ashwin,Rajasthan Royals,Lucknow Super Giants  vs Rajasthan Royals,26,not out,3,2,3,0,0,150
+1,Virat Kohli (c),Royal Challengers Bangalore,Royal Challengers Bangalore vs Punjab Kings ,27,c †Sharma b Harpreet Brar,59,47,72,5,1,125.53
+2,Faf du Plessis,Royal Challengers Bangalore,Royal Challengers Bangalore vs Punjab Kings ,27,c Curran b Ellis,84,56,78,5,5,150
+3,Glenn Maxwell,Royal Challengers Bangalore,Royal Challengers Bangalore vs Punjab Kings ,27,c Taide b Harpreet Brar,0,1,1,0,0,0
+4,Dinesh Karthik †,Royal Challengers Bangalore,Royal Challengers Bangalore vs Punjab Kings ,27,c Taide b Arshdeep Singh,7,5,16,1,0,140
+5,Mahipal Lomror,Royal Challengers Bangalore,Royal Challengers Bangalore vs Punjab Kings ,27,not out,7,9,15,1,0,77.77
+6,Shahbaz Ahmed,Royal Challengers Bangalore,Royal Challengers Bangalore vs Punjab Kings ,27,not out,5,3,5,0,0,166.66
+1,Atharva Taide,Punjab Kings ,Royal Challengers Bangalore vs Punjab Kings ,27,lbw b Mohammed Siraj,4,2,5,1,0,200
+2,Prabhsimran Singh,Punjab Kings ,Royal Challengers Bangalore vs Punjab Kings ,27,b Parnell,46,30,59,3,4,153.33
+3,Matthew Short,Punjab Kings ,Royal Challengers Bangalore vs Punjab Kings ,27,b de Silva,8,7,9,0,1,114.28
+4,Liam Livingstone,Punjab Kings ,Royal Challengers Bangalore vs Punjab Kings ,27,lbw b Mohammed Siraj,2,4,7,0,0,50
+5,Harpreet Singh,Punjab Kings ,Royal Challengers Bangalore vs Punjab Kings ,27,run out (Mohammed Siraj),13,9,12,1,1,144.44
+6,Sam Curran (c),Punjab Kings ,Royal Challengers Bangalore vs Punjab Kings ,27,run out (de Silva),10,12,18,1,0,83.33
+7,Jitesh Sharma †,Punjab Kings ,Royal Challengers Bangalore vs Punjab Kings ,27,c Shahbaz Ahmed b Patel,41,27,48,2,3,151.85
+8,M Shahrukh Khan,Punjab Kings ,Royal Challengers Bangalore vs Punjab Kings ,27,st †Karthik b de Silva,7,5,9,0,1,140
+9,Harpreet Brar,Punjab Kings ,Royal Challengers Bangalore vs Punjab Kings ,27,b Mohammed Siraj,13,13,22,1,0,100
+10,Nathan Ellis,Punjab Kings ,Royal Challengers Bangalore vs Punjab Kings ,27,b Mohammed Siraj,1,2,5,0,0,50
+11,Arshdeep Singh,Punjab Kings ,Royal Challengers Bangalore vs Punjab Kings ,27,not out,0,0,3,0,0,-
+1,Jason Roy, Kolkata Knight Riders,Kolkata Knight Riders vs Delhi Capitals   ,28,c Aman Hakim Khan b Kuldeep Yadav,43,39,74,5,1,110.25
+2,Litton Das †, Kolkata Knight Riders,Kolkata Knight Riders vs Delhi Capitals   ,28,c Lalit Yadav b Mukesh Kumar,4,4,13,1,0,100
+3,Venkatesh Iyer, Kolkata Knight Riders,Kolkata Knight Riders vs Delhi Capitals   ,28,c Marsh b Nortje,0,2,9,0,0,0
+4,Nitish Rana (c), Kolkata Knight Riders,Kolkata Knight Riders vs Delhi Capitals   ,28,c Mukesh Kumar b Sharma,4,7,11,1,0,57.14
+5,Mandeep Singh, Kolkata Knight Riders,Kolkata Knight Riders vs Delhi Capitals   ,28,b Patel,12,11,16,0,1,109.09
+6,Rinku Singh, Kolkata Knight Riders,Kolkata Knight Riders vs Delhi Capitals   ,28,c Lalit Yadav b Patel,6,8,9,1,0,75
+7,Sunil Narine, Kolkata Knight Riders,Kolkata Knight Riders vs Delhi Capitals   ,28,c Warner b Sharma,4,6,6,1,0,66.66
+8,Andre Russell, Kolkata Knight Riders,Kolkata Knight Riders vs Delhi Capitals   ,28,not out,38,31,49,1,4,122.58
+9,Anukul Roy, Kolkata Knight Riders,Kolkata Knight Riders vs Delhi Capitals   ,28,lbw b Kuldeep Yadav,0,1,2,0,0,0
+10,Umesh Yadav, Kolkata Knight Riders,Kolkata Knight Riders vs Delhi Capitals   ,28,c & b Nortje,3,5,5,0,0,60
+11,Varun Chakravarthy, Kolkata Knight Riders,Kolkata Knight Riders vs Delhi Capitals   ,28,run out (sub [YV Dhull]/†Salt),1,6,28,0,0,16.66
+1,David Warner (c),Delhi Capitals,Kolkata Knight Riders vs Delhi Capitals   ,28,lbw b Varun,57,41,58,11,0,139.02
+2,Prithvi Shaw,Delhi Capitals,Kolkata Knight Riders vs Delhi Capitals   ,28,b Varun,13,11,22,2,0,118.18
+3,Mitchell Marsh,Delhi Capitals,Kolkata Knight Riders vs Delhi Capitals   ,28,c sub (D Wiese) b Rana,2,9,14,0,0,22.22
+4,Phil Salt †,Delhi Capitals,Kolkata Knight Riders vs Delhi Capitals   ,28,c & b AS Roy,5,3,6,1,0,166.66
+5,Manish Pandey,Delhi Capitals,Kolkata Knight Riders vs Delhi Capitals   ,28,c Singh b AS Roy,21,23,34,2,0,91.3
+6,Axar Patel,Delhi Capitals,Kolkata Knight Riders vs Delhi Capitals   ,28,not out,19,22,37,1,0,86.36
+7,Aman Hakim Khan,Delhi Capitals,Kolkata Knight Riders vs Delhi Capitals   ,28,b Rana,0,2,4,0,0,0
+8,Lalit Yadav,Delhi Capitals,Kolkata Knight Riders vs Delhi Capitals   ,28,not out,4,7,21,0,0,57.14
+1,Harry Brook,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Chennai Super Kings ,29,c Gaikwad b Akash Singh,18,13,23,3,0,138.46
+2,Abhishek Sharma,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Chennai Super Kings ,29,c Rahane b Jadeja,34,26,43,3,1,130.76
+3,Rahul Tripathi,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Chennai Super Kings ,29,c Akash Singh b Jadeja,21,21,31,1,1,100
+4,Aiden Markram (c),Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Chennai Super Kings ,29,c †Dhoni b Theekshana,12,12,15,1,0,100
+5,Heinrich Klaasen †,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Chennai Super Kings ,29,c Gaikwad b Pathirana,17,16,27,1,0,106.25
+6,Mayank Agarwal,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Chennai Super Kings ,29,st †Dhoni b Jadeja,2,4,6,0,0,50
+7,Marco Jansen,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Chennai Super Kings ,29,not out,17,22,29,1,0,77.27
+8,Washington Sundar,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Chennai Super Kings ,29,run out (†Dhoni),9,6,14,1,0,150
+1,Ruturaj Gaikwad,Chennai Super Kings ,Sunrisers Hyderabad  vs Chennai Super Kings ,29,run out (Umran Malik),35,30,50,2,0,116.66
+2,Devon Conway,Chennai Super Kings ,Sunrisers Hyderabad  vs Chennai Super Kings ,29,not out,77,57,84,12,1,135.08
+3,Ajinkya Rahane,Chennai Super Kings ,Sunrisers Hyderabad  vs Chennai Super Kings ,29,c Markram b Markande,9,10,15,0,0,90
+4,Ambati Rayudu,Chennai Super Kings ,Sunrisers Hyderabad  vs Chennai Super Kings ,29,b Markande,9,9,11,1,0,100
+5,Moeen Ali,Chennai Super Kings ,Sunrisers Hyderabad  vs Chennai Super Kings ,29,not out,6,6,9,1,0,100
+1,Wriddhiman Saha †,Gujarat Titans,Gujarat Titans vs Lucknow Super Giants ,30,c Hooda b Pandya,47,37,51,6,0,127.02
+2,Shubman Gill,Gujarat Titans,Gujarat Titans vs Lucknow Super Giants ,30,c Ravi Bishnoi b Pandya,0,2,9,0,0,0
+3,Hardik Pandya (c),Gujarat Titans,Gujarat Titans vs Lucknow Super Giants ,30,c Rahul b Stoinis,66,50,89,2,4,132
+4,Abhinav Manohar,Gujarat Titans,Gujarat Titans vs Lucknow Super Giants ,30,c Naveen-ul-Haq b Mishra,3,5,7,0,0,60
+5,Vijay Shankar,Gujarat Titans,Gujarat Titans vs Lucknow Super Giants ,30,b Naveen-ul-Haq,10,12,17,1,0,83.33
+6,David Miller,Gujarat Titans,Gujarat Titans vs Lucknow Super Giants ,30,c Hooda b Stoinis,6,12,28,0,0,50
+7,Rahul Tewatia,Gujarat Titans,Gujarat Titans vs Lucknow Super Giants ,30,not out,2,2,4,0,0,100
+1,KL Rahul (c),Lucknow Super Giants ,Gujarat Titans vs Lucknow Super Giants ,30,c Yadav b Sharma,68,61,94,8,0,111.47
+2,Kyle Mayers,Lucknow Super Giants ,Gujarat Titans vs Lucknow Super Giants ,30,b Rashid Khan,24,19,31,2,1,126.31
+3,Krunal Pandya,Lucknow Super Giants ,Gujarat Titans vs Lucknow Super Giants ,30,st †Saha b Noor Ahmad,23,23,36,2,1,100
+4,Nicholas Pooran †,Lucknow Super Giants ,Gujarat Titans vs Lucknow Super Giants ,30,c Pandya b Noor Ahmad,1,7,10,0,0,14.28
+5,Ayush Badoni,Lucknow Super Giants ,Gujarat Titans vs Lucknow Super Giants ,30,run out (Shankar/Sharma),8,6,22,0,0,133.33
+6,Marcus Stoinis,Lucknow Super Giants ,Gujarat Titans vs Lucknow Super Giants ,30,c Miller b Sharma,0,1,2,0,0,0
+7,Deepak Hooda,Lucknow Super Giants ,Gujarat Titans vs Lucknow Super Giants ,30,run out (Rashid Khan/†Saha),2,2,4,0,0,100
+8,Prerak Mankad,Lucknow Super Giants ,Gujarat Titans vs Lucknow Super Giants ,30,not out,0,0,4,0,0,-
+9,Ravi Bishnoi,Lucknow Super Giants ,Gujarat Titans vs Lucknow Super Giants ,30,not out,0,1,1,0,0,0
+1,Matthew Short,Punjab Kings ,Punjab Kings vs  Mumbai Indians ,30,c Chawla b Green,11,10,15,2,0,110
+2,Prabhsimran Singh,Punjab Kings ,Punjab Kings vs  Mumbai Indians ,31,lbw b Tendulkar,26,17,37,1,2,152.94
+3,Atharva Taide,Punjab Kings ,Punjab Kings vs  Mumbai Indians ,31,b Chawla,29,17,38,3,1,170.58
+4,Liam Livingstone,Punjab Kings ,Punjab Kings vs  Mumbai Indians ,31,st †Ishan Kishan b Chawla,10,12,12,0,1,83.33
+5,Harpreet Singh,Punjab Kings ,Punjab Kings vs  Mumbai Indians ,31,b Green,41,28,47,4,2,146.42
+6,Sam Curran (c),Punjab Kings ,Punjab Kings vs  Mumbai Indians ,31,c & b Archer,55,29,51,5,4,189.65
+7,Jitesh Sharma †,Punjab Kings ,Punjab Kings vs  Mumbai Indians ,31,b Behrendorff,25,7,12,0,4,357.14
+8,M Shahrukh Khan,Punjab Kings ,Punjab Kings vs  Mumbai Indians ,31,not out,0,0,6,0,0,-
+9,Harpreet Brar,Punjab Kings ,Punjab Kings vs  Mumbai Indians ,31,run out (Tilak Varma/†Ishan Kishan),5,2,3,1,0,250
+1,Rohit Sharma (c),Mumbai Indians ,Punjab Kings vs  Mumbai Indians ,31,c & b Livingstone,44,27,42,4,3,162.96
+2,Ishan Kishan †,Mumbai Indians ,Punjab Kings vs  Mumbai Indians ,31,c Short b Arshdeep Singh,1,4,7,0,0,25
+3,Cameron Green,Mumbai Indians ,Punjab Kings vs  Mumbai Indians ,31,c Curran b Ellis,67,43,64,6,3,155.81
+4,Suryakumar Yadav,Mumbai Indians ,Punjab Kings vs  Mumbai Indians ,31,c Taide b Arshdeep Singh,57,26,42,7,3,219.23
+5,Tim David,Mumbai Indians ,Punjab Kings vs  Mumbai Indians ,31,not out,25,13,34,0,2,192.3
+6,Tilak Varma,Mumbai Indians ,Punjab Kings vs  Mumbai Indians ,31,b Arshdeep Singh,3,4,14,0,0,75
+7,Nehal Wadhera,Mumbai Indians ,Punjab Kings vs  Mumbai Indians ,31,b Arshdeep Singh,0,1,2,0,0,0
+8,Jofra Archer,Mumbai Indians ,Punjab Kings vs  Mumbai Indians ,31,not out,1,2,4,0,0,50
+1,Virat Kohli (c),Royal Challengers Bangalore,Royal Challengers Bangalore vs Rajasthan Royals,32,lbw b Boult,0,1,2,0,0,0
+2,Faf du Plessis,Royal Challengers Bangalore,Royal Challengers Bangalore vs Rajasthan Royals,32,run out (Jaiswal),62,39,71,8,2,158.97
+3,Shahbaz Ahmed,Royal Challengers Bangalore,Royal Challengers Bangalore vs Rajasthan Royals,32,c Jaiswal b Boult,2,4,10,0,0,50
+4,Glenn Maxwell,Royal Challengers Bangalore,Royal Challengers Bangalore vs Rajasthan Royals,32,c Holder b Ashwin,77,44,66,6,4,175
+5,Mahipal Lomror,Royal Challengers Bangalore,Royal Challengers Bangalore vs Rajasthan Royals,32,c Padikkal b Chahal,8,6,16,1,0,133.33
+6,Dinesh Karthik †,Royal Challengers Bangalore,Royal Challengers Bangalore vs Rajasthan Royals,32,c Buttler b Sandeep Sharma,16,13,28,2,0,123.07
+7,Suyash Prabhudessai,Royal Challengers Bangalore,Royal Challengers Bangalore vs Rajasthan Royals,32,run out (Jaiswal/†Samson),0,2,5,0,0,0
+8,Wanindu Hasaranga,Royal Challengers Bangalore,Royal Challengers Bangalore vs Rajasthan Royals,32,run out (†Samson/Sandeep Sharma),6,7,14,0,0,85.71
+9,David Willey,Royal Challengers Bangalore,Royal Challengers Bangalore vs Rajasthan Royals,32,not out,4,2,8,1,0,200
+10,Vijaykumar Vyshak,Royal Challengers Bangalore,Royal Challengers Bangalore vs Rajasthan Royals,32,c Hetmyer b Sandeep Sharma,0,1,2,0,0,0
+11,Mohammed Siraj,Royal Challengers Bangalore,Royal Challengers Bangalore vs Rajasthan Royals,32,not out,1,1,4,0,0,100
+1,Yashasvi Jaiswal,Rajasthan Royals,Royal Challengers Bangalore vs Rajasthan Royals,32,c Kohli b Patel,47,37,63,5,2,127.02
+2,Jos Buttler,Rajasthan Royals,Royal Challengers Bangalore vs Rajasthan Royals,32,b Mohammed Siraj,0,2,4,0,0,0
+3,Devdutt Padikkal,Rajasthan Royals,Royal Challengers Bangalore vs Rajasthan Royals,32,c Kohli b Willey,52,34,48,7,1,152.94
+4,Sanju Samson (c)†,Rajasthan Royals,Royal Challengers Bangalore vs Rajasthan Royals,32,c Shahbaz Ahmed b Patel,22,15,22,2,1,146.66
+5,Shimron Hetmyer,Rajasthan Royals,Royal Challengers Bangalore vs Rajasthan Royals,32,run out (Prabhudessai),3,9,30,0,0,33.33
+6,Dhruv Jurel,Rajasthan Royals,Royal Challengers Bangalore vs Rajasthan Royals,32,not out,34,16,35,2,2,212.5
+7,Ravichandran Ashwin,Rajasthan Royals,Royal Challengers Bangalore vs Rajasthan Royals,32,c Prabhudessai b Patel,12,6,14,2,0,200
+8,Abdul Basith,Rajasthan Royals,Royal Challengers Bangalore vs Rajasthan Royals,32,not out,1,1,2,0,0,100
+1,Ruturaj Gaikwad,Chennai Super Kings ,Chennai Super Kings  vs Kolkata Knight Riders,33,b Suyash Sharma,35,20,35,2,3,175
+2,Devon Conway,Chennai Super Kings ,Chennai Super Kings  vs Kolkata Knight Riders,33,c Wiese b Varun,56,40,56,4,3,140
+3,Ajinkya Rahane,Chennai Super Kings ,Chennai Super Kings  vs Kolkata Knight Riders,33,not out,71,29,70,6,5,244.82
+4,Shivam Dube,Chennai Super Kings ,Chennai Super Kings  vs Kolkata Knight Riders,33,c Roy b Khejroliya,50,21,31,2,5,238.09
+5,Ravindra Jadeja,Chennai Super Kings ,Chennai Super Kings  vs Kolkata Knight Riders,33,c Singh b Khejroliya,18,8,13,0,2,225
+6,MS Dhoni (c)†,Chennai Super Kings ,Chennai Super Kings  vs Kolkata Knight Riders,33,not out,2,3,4,0,0,66.66
+1,Narayan Jagadeesan †,Kolkata Knight Riders,Chennai Super Kings  vs Kolkata Knight Riders,33,c Jadeja b Deshpande,1,3,9,0,0,33.33
+2,Sunil Narine,Kolkata Knight Riders,Chennai Super Kings  vs Kolkata Knight Riders,33,b Akash Singh,0,3,4,0,0,0
+3,Venkatesh Iyer,Kolkata Knight Riders,Chennai Super Kings  vs Kolkata Knight Riders,33,lbw b Ali,20,20,35,2,1,100
+4,Nitish Rana (c),Kolkata Knight Riders,Chennai Super Kings  vs Kolkata Knight Riders,33,c Gaikwad b Jadeja,27,20,38,4,1,135
+5,Jason Roy,Kolkata Knight Riders,Chennai Super Kings  vs Kolkata Knight Riders,33,b Theekshana,61,26,35,5,5,234.61
+6,Rinku Singh,Kolkata Knight Riders,Chennai Super Kings  vs Kolkata Knight Riders,33,not out,53,33,62,3,4,160.6
+7,Andre Russell,Kolkata Knight Riders,Chennai Super Kings  vs Kolkata Knight Riders,33,c Dube b Pathirana,9,6,14,0,1,150
+8,David Wiese,Kolkata Knight Riders,Chennai Super Kings  vs Kolkata Knight Riders,33,lbw b Deshpande,1,2,6,0,0,50
+9,Umesh Yadav,Kolkata Knight Riders,Chennai Super Kings  vs Kolkata Knight Riders,33,c Conway b Theekshana,4,4,8,0,0,100
+10,Varun Chakravarthy,Kolkata Knight Riders,Chennai Super Kings  vs Kolkata Knight Riders,33,not out,0,3,9,0,0,0
+1,David Warner (c),Delhi Capitals ,Delhi Capitals  vs Sunrisers Hyderabad ,34,c Brook b Washington Sundar,21,20,39,2,1,105
+2,Phil Salt †,Delhi Capitals ,Delhi Capitals  vs Sunrisers Hyderabad ,34,c †Klaasen b Kumar,0,1,4,0,0,0
+3,Mitchell Marsh,Delhi Capitals ,Delhi Capitals  vs Sunrisers Hyderabad ,34,lbw b Natarajan,25,15,22,5,0,166.66
+4,Sarfaraz Khan,Delhi Capitals ,Delhi Capitals  vs Sunrisers Hyderabad ,34,c Kumar b Washington Sundar,10,9,16,0,1,111.11
+5,Manish Pandey,Delhi Capitals ,Delhi Capitals  vs Sunrisers Hyderabad ,34,run out (Washington Sundar/†Klaasen),34,27,53,2,0,125.92
+6,Aman Hakim Khan,Delhi Capitals ,Delhi Capitals  vs Sunrisers Hyderabad ,34,c Abhishek Sharma b Washington Sundar,4,2,3,1,0,200
+7,Axar Patel,Delhi Capitals ,Delhi Capitals  vs Sunrisers Hyderabad ,34,b Kumar,34,34,43,4,0,100
+8,Ripal Patel,Delhi Capitals ,Delhi Capitals  vs Sunrisers Hyderabad ,34,run out (†Klaasen),5,6,13,0,0,83.33
+9,Anrich Nortje,Delhi Capitals ,Delhi Capitals  vs Sunrisers Hyderabad ,34,run out (Umran Malik/†Klaasen),2,2,7,0,0,100
+10,Kuldeep Yadav,Delhi Capitals ,Delhi Capitals  vs Sunrisers Hyderabad ,34,not out,4,3,5,1,0,133.33
+11,Ishant Sharma,Delhi Capitals ,Delhi Capitals  vs Sunrisers Hyderabad ,34,not out,1,1,2,0,0,100
+1,Harry Brook,Sunrisers Hyderabad ,Delhi Capitals  vs Sunrisers Hyderabad ,34,b Nortje,7,14,26,0,0,50
+2,Mayank Agarwal,Sunrisers Hyderabad ,Delhi Capitals  vs Sunrisers Hyderabad ,34,c Aman Hakim Khan b AR Patel,49,39,56,7,0,125.64
+3,Rahul Tripathi,Sunrisers Hyderabad ,Delhi Capitals  vs Sunrisers Hyderabad ,34,c †Salt b Sharma,15,21,37,0,0,71.42
+4,Abhishek Sharma,Sunrisers Hyderabad ,Delhi Capitals  vs Sunrisers Hyderabad ,34,c & b Kuldeep Yadav,5,5,13,0,0,100
+5,Aiden Markram (c),Sunrisers Hyderabad ,Delhi Capitals  vs Sunrisers Hyderabad ,34,b AR Patel,3,5,11,0,0,60
+6,Heinrich Klaasen †,Sunrisers Hyderabad ,Delhi Capitals  vs Sunrisers Hyderabad ,34,c Aman Hakim Khan b Nortje,31,19,25,3,1,163.15
+7,Washington Sundar,Sunrisers Hyderabad ,Delhi Capitals  vs Sunrisers Hyderabad ,34,not out,24,15,30,3,0,160
+8,Marco Jansen,Sunrisers Hyderabad ,Delhi Capitals  vs Sunrisers Hyderabad ,34,not out,2,3,11,0,0,66.66
+1,Wriddhiman Saha †,Gujarat Titans,Gujarat Titans vs Mumbai Indians ,35,c †Ishan Kishan b Tendulkar,4,7,13,0,0,57.14
+2,Shubman Gill,Gujarat Titans,Gujarat Titans vs Mumbai Indians ,35,c Yadav b Kartikeya,56,34,57,7,1,164.7
+3,Hardik Pandya (c),Gujarat Titans,Gujarat Titans vs Mumbai Indians ,35,c Yadav b Chawla,13,14,23,1,0,92.85
+4,Vijay Shankar,Gujarat Titans,Gujarat Titans vs Mumbai Indians ,35,c David b Chawla,19,16,27,1,1,118.75
+5,David Miller,Gujarat Titans,Gujarat Titans vs Mumbai Indians ,35,c Yadav b Behrendorff,46,22,47,2,4,209.09
+6,Abhinav Manohar,Gujarat Titans,Gujarat Titans vs Mumbai Indians ,35,c Behrendorff b Meredith,42,21,30,3,3,200
+7,Rahul Tewatia,Gujarat Titans,Gujarat Titans vs Mumbai Indians ,35,not out,20,5,13,0,3,400
+8,Rashid Khan,Gujarat Titans,Gujarat Titans vs Mumbai Indians ,35,not out,2,1,2,0,0,200
+1,Rohit Sharma (c),Mumbai Indians ,Gujarat Titans vs Mumbai Indians ,35,c & b Pandya,2,8,10,0,0,25
+2,Ishan Kishan †,Mumbai Indians ,Gujarat Titans vs Mumbai Indians ,35,c Little b Rashid Khan,13,21,35,1,0,61.9
+3,Cameron Green,Mumbai Indians ,Gujarat Titans vs Mumbai Indians ,35,b Noor Ahmad,33,26,43,0,3,126.92
+4,Tilak Varma,Mumbai Indians ,Gujarat Titans vs Mumbai Indians ,35,lbw b Rashid Khan,2,3,6,0,0,66.66
+5,Suryakumar Yadav,Mumbai Indians ,Gujarat Titans vs Mumbai Indians ,35,c & b Noor Ahmad,23,12,27,3,1,191.66
+6,Tim David,Mumbai Indians ,Gujarat Titans vs Mumbai Indians ,35,c Manohar b Noor Ahmad,0,2,3,0,0,0
+7,Nehal Wadhera,Mumbai Indians ,Gujarat Titans vs Mumbai Indians ,35,c Mohammed Shami b Sharma,40,21,38,3,3,190.47
+8,Piyush Chawla,Mumbai Indians ,Gujarat Titans vs Mumbai Indians ,35,run out (†Saha/Sharma),18,12,22,1,1,150
+9,Arjun Tendulkar,Mumbai Indians ,Gujarat Titans vs Mumbai Indians ,35,c Little b Sharma,13,9,13,0,1,144.44
+10,Jason Behrendorff,Mumbai Indians ,Gujarat Titans vs Mumbai Indians ,35,not out,3,4,12,0,0,75
+11,Riley Meredith,Mumbai Indians ,Gujarat Titans vs Mumbai Indians ,35,not out,0,2,2,0,0,0
+1,Jason Roy,Kolkata Knight Riders,Kolkata Knight Riders vs Royal Challengers Bangalore,36,b Vyshak,56,29,50,4,5,193.1
+2,Narayan Jagadeesan †,Kolkata Knight Riders,Kolkata Knight Riders vs Royal Challengers Bangalore,36,c Willey b Vyshak,27,29,44,4,0,93.1
+3,Venkatesh Iyer,Kolkata Knight Riders,Kolkata Knight Riders vs Royal Challengers Bangalore,36,c Maxwell b de Silva,31,26,44,3,0,119.23
+4,Nitish Rana (c),Kolkata Knight Riders,Kolkata Knight Riders vs Royal Challengers Bangalore,36,c Vyshak b de Silva,48,21,28,3,4,228.57
+5,Andre Russell,Kolkata Knight Riders,Kolkata Knight Riders vs Royal Challengers Bangalore,36,b Mohammed Siraj,1,2,10,0,0,50
+6,Rinku Singh,Kolkata Knight Riders,Kolkata Knight Riders vs Royal Challengers Bangalore,36,not out,18,10,12,2,1,180
+7,David Wiese,Kolkata Knight Riders,Kolkata Knight Riders vs Royal Challengers Bangalore,36,not out,12,3,5,0,2,400
+1,Virat Kohli (c),Royal Challengers Bangalore,Kolkata Knight Riders vs Royal Challengers Bangalore,36,c Iyer b Russell,54,37,59,6,0,145.94
+2,Faf du Plessis,Royal Challengers Bangalore,Kolkata Knight Riders vs Royal Challengers Bangalore,36,c Singh b Suyash Sharma,17,7,12,1,2,242.85
+3,Shahbaz Ahmed,Royal Challengers Bangalore,Kolkata Knight Riders vs Royal Challengers Bangalore,36,lbw b Suyash Sharma,2,5,11,0,0,40
+4,Glenn Maxwell,Royal Challengers Bangalore,Kolkata Knight Riders vs Royal Challengers Bangalore,36,c Wiese b Varun,5,4,6,1,0,125
+5,Mahipal Lomror,Royal Challengers Bangalore,Kolkata Knight Riders vs Royal Challengers Bangalore,36,c Russell b Varun,34,18,26,1,3,188.88
+6,Dinesh Karthik †,Royal Challengers Bangalore,Kolkata Knight Riders vs Royal Challengers Bangalore,36,c Singh b Varun,22,18,33,1,1,122.22
+7,Suyash Prabhudessai,Royal Challengers Bangalore,Kolkata Knight Riders vs Royal Challengers Bangalore,36,run out (sub [AS Roy]/Suyash Sharma),10,9,15,1,0,111.11
+8,Wanindu Hasaranga,Royal Challengers Bangalore,Kolkata Knight Riders vs Royal Challengers Bangalore,36,c sub (AS Roy) b Russell,5,4,11,0,0,125
+9,David Willey,Royal Challengers Bangalore,Kolkata Knight Riders vs Royal Challengers Bangalore,36,not out,11,10,16,1,0,110
+10,Vijaykumar Vyshak,Royal Challengers Bangalore,Kolkata Knight Riders vs Royal Challengers Bangalore,36,not out,13,8,12,0,1,162.5
+1,Yashasvi Jaiswal,Rajasthan Royals,Rajasthan Royals vs Chennai Super Kings ,37,c Rahane b Deshpande,77,43,67,8,4,179.06
+2,Jos Buttler,Rajasthan Royals,Rajasthan Royals vs Chennai Super Kings ,37,c Dube b Jadeja,27,21,40,4,0,128.57
+3,Sanju Samson (c)†,Rajasthan Royals,Rajasthan Royals vs Chennai Super Kings ,37,c Gaikwad b Deshpande,17,17,21,1,0,100
+4,Shimron Hetmyer,Rajasthan Royals,Rajasthan Royals vs Chennai Super Kings ,37,b Theekshana,8,10,16,0,0,80
+5,Dhruv Jurel,Rajasthan Royals,Rajasthan Royals vs Chennai Super Kings ,37,run out (†Dhoni),34,15,32,3,2,226.66
+6,Devdutt Padikkal,Rajasthan Royals,Rajasthan Royals vs Chennai Super Kings ,37,not out,27,13,22,5,0,207.69
+7,Ravichandran Ashwin,Rajasthan Royals,Rajasthan Royals vs Chennai Super Kings ,37,not out,1,1,3,0,0,100
+1,Ruturaj Gaikwad,Chennai Super Kings ,Rajasthan Royals vs Chennai Super Kings ,37,c Padikkal b Zampa,47,29,45,5,1,162.06
+2,Devon Conway,Chennai Super Kings ,Rajasthan Royals vs Chennai Super Kings ,37,c Sandeep Sharma b Zampa,8,16,28,1,0,50
+3,Ajinkya Rahane,Chennai Super Kings ,Rajasthan Royals vs Chennai Super Kings ,37,c Buttler b Ashwin,15,13,23,0,0,115.38
+4,Shivam Dube,Chennai Super Kings ,Rajasthan Royals vs Chennai Super Kings ,37,c Buttler b Yadav,52,33,52,2,4,157.57
+5,Ambati Rayudu,Chennai Super Kings ,Rajasthan Royals vs Chennai Super Kings ,37,c Holder b Ashwin,0,2,4,0,0,0
+6,Moeen Ali,Chennai Super Kings ,Rajasthan Royals vs Chennai Super Kings ,37,c †Samson b Zampa,23,12,21,2,2,191.66
+7,Ravindra Jadeja,Chennai Super Kings ,Rajasthan Royals vs Chennai Super Kings ,37,not out,23,15,27,3,0,153.33
+1,KL Rahul (c),Lucknow Super Giants ,Lucknow Super Giants vs Punjab Kings ,38,c Shahrukh Khan b Rabada,12,9,19,1,1,133.33
+2,Kyle Mayers,Lucknow Super Giants ,Lucknow Super Giants vs Punjab Kings ,38,c Dhawan b Rabada,54,24,31,7,4,225
+3,Ayush Badoni,Lucknow Super Giants ,Lucknow Super Giants vs Punjab Kings ,38,c Chahar b Livingstone,43,24,49,3,3,179.16
+4,Marcus Stoinis,Lucknow Super Giants ,Lucknow Super Giants vs Punjab Kings ,38,c †Sharma b Curran,72,40,63,6,5,180
+5,Nicholas Pooran †,Lucknow Super Giants ,Lucknow Super Giants vs Punjab Kings ,38,lbw b Arshdeep Singh,45,19,36,7,1,236.84
+6,Deepak Hooda,Lucknow Super Giants ,Lucknow Super Giants vs Punjab Kings ,38,not out,11,6,12,2,0,183.33
+7,Krunal Pandya,Lucknow Super Giants ,Lucknow Super Giants vs Punjab Kings ,38,not out,5,2,3,1,0,250
+1,Prabhsimran Singh,Punjab Kings ,Lucknow Super Giants vs Punjab Kings ,38,c sub (DR Sams) b Naveen-ul-Haq,9,13,24,2,0,69.23
+2,Shikhar Dhawan (c),Punjab Kings ,Lucknow Super Giants vs Punjab Kings ,38,c Pandya b Stoinis,1,2,5,0,0,50
+3,Atharva Taide,Punjab Kings ,Lucknow Super Giants vs Punjab Kings ,38,c & b Ravi Bishnoi,66,36,67,8,2,183.33
+4,Sikandar Raza,Punjab Kings ,Lucknow Super Giants vs Punjab Kings ,38,c Pandya b Yash Thakur,36,22,41,4,1,163.63
+5,Liam Livingstone,Punjab Kings ,Lucknow Super Giants vs Punjab Kings ,38,lbw b Ravi Bishnoi,23,14,19,2,1,164.28
+6,Sam Curran,Punjab Kings ,Lucknow Super Giants vs Punjab Kings ,38,c Badoni b Naveen-ul-Haq,21,11,24,2,1,190.9
+7,Jitesh Sharma †,Punjab Kings ,Lucknow Super Giants vs Punjab Kings ,38,c Rahul b Yash Thakur,24,10,17,0,3,240
+8,M Shahrukh Khan,Punjab Kings ,Lucknow Super Giants vs Punjab Kings ,38,c Ravi Bishnoi b Yash Thakur,6,9,18,0,0,66.66
+9,Rahul Chahar,Punjab Kings ,Lucknow Super Giants vs Punjab Kings ,38,c Hooda b Yash Thakur,0,1,3,0,0,0
+10,Kagiso Rabada,Punjab Kings ,Lucknow Super Giants vs Punjab Kings ,38,b Naveen-ul-Haq,0,1,5,0,0,0
+11,Arshdeep Singh,Punjab Kings ,Lucknow Super Giants vs Punjab Kings ,38,not out,2,2,6,0,0,100
+1,Narayan Jagadeesan †,Kolkata Knight Riders,Kolkata Knight Riders vs Gujarat Titans,39,lbw b Mohammed Shami,19,15,16,4,0,126.66
+2,Rahmanullah Gurbaz,Kolkata Knight Riders,Kolkata Knight Riders vs Gujarat Titans,39,c Rashid Khan b Noor Ahmad,81,39,80,5,7,207.69
+3,Shardul Thakur,Kolkata Knight Riders,Kolkata Knight Riders vs Gujarat Titans,39,c Sharma b Mohammed Shami,0,4,13,0,0,0
+4,Venkatesh Iyer,Kolkata Knight Riders,Kolkata Knight Riders vs Gujarat Titans,39,lbw b Little,11,14,27,0,0,78.57
+5,Nitish Rana (c),Kolkata Knight Riders,Kolkata Knight Riders vs Gujarat Titans,39,c Tewatia b Little,4,3,5,1,0,133.33
+6,Rinku Singh,Kolkata Knight Riders,Kolkata Knight Riders vs Gujarat Titans,39,c Little b Noor Ahmad,19,20,33,0,1,95
+7,Andre Russell,Kolkata Knight Riders,Kolkata Knight Riders vs Gujarat Titans,39,c Tewatia b Mohammed Shami,34,19,22,2,3,178.94
+8,David Wiese,Kolkata Knight Riders,Kolkata Knight Riders vs Gujarat Titans,39,not out,8,6,13,0,1,133.33
+1,Wriddhiman Saha †,Gujarat Titans,Kolkata Knight Riders vs Gujarat Titans,39,c Harshit Rana b Russell,10,10,21,1,0,100
+2,Shubman Gill,Gujarat Titans,Kolkata Knight Riders vs Gujarat Titans,39,c Russell b Narine,49,35,53,8,0,140
+3,Hardik Pandya (c),Gujarat Titans,Kolkata Knight Riders vs Gujarat Titans,39,lbw b Harshit Rana,26,20,28,2,1,130
+4,Vijay Shankar,Gujarat Titans,Kolkata Knight Riders vs Gujarat Titans,39,not out,51,24,37,2,5,212.5
+5,David Miller,Gujarat Titans,Kolkata Knight Riders vs Gujarat Titans,39,not out,32,18,32,2,2,177.77
+1,Abhishek Sharma,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Delhi Capitals ,40,c Warner b AR Patel,67,36,62,12,1,186.11
+2,Mayank Agarwal,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Delhi Capitals ,40,c †Salt b Sharma,5,6,15,1,0,83.33
+3,Rahul Tripathi,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Delhi Capitals ,40,c Pandey b Marsh,10,6,12,0,1,166.66
+4,Aiden Markram (c),Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Delhi Capitals ,40,c AR Patel b Marsh,8,13,21,0,0,61.53
+5,Harry Brook,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Delhi Capitals ,40,c AR Patel b Marsh,0,2,3,0,0,0
+6,Heinrich Klaasen †,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Delhi Capitals ,40,not out,53,27,50,2,4,196.29
+7,Abdul Samad,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Delhi Capitals ,40,c †Salt b Marsh,28,21,21,1,2,133.33
+8,Akeal Hosein,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Delhi Capitals ,40,not out,16,10,17,1,1,160
+1,David Warner (c),Delhi Capitals ,Sunrisers Hyderabad  vs Delhi Capitals ,40,b Kumar,0,2,2,0,0,0
+2,Phil Salt †,Delhi Capitals ,Sunrisers Hyderabad  vs Delhi Capitals ,40,c & b Markande,59,35,53,9,0,168.57
+3,Mitchell Marsh,Delhi Capitals ,Sunrisers Hyderabad  vs Delhi Capitals ,40,c Markram b Hosein,63,39,63,1,6,161.53
+4,Manish Pandey,Delhi Capitals ,Sunrisers Hyderabad  vs Delhi Capitals ,40,st †Klaasen b Abhishek Sharma,1,3,5,0,0,33.33
+5,Priyam Garg,Delhi Capitals ,Sunrisers Hyderabad  vs Delhi Capitals ,40,b Markande,12,9,15,1,0,133.33
+6,Sarfaraz Khan,Delhi Capitals ,Sunrisers Hyderabad  vs Delhi Capitals ,40,b Natarajan,9,10,19,1,0,90
+7,Axar Patel,Delhi Capitals ,Sunrisers Hyderabad  vs Delhi Capitals ,40,not out,29,14,24,1,2,207.14
+8,Ripal Patel,Delhi Capitals ,Sunrisers Hyderabad  vs Delhi Capitals ,40,not out,11,8,16,1,0,137.5
+1,Ruturaj Gaikwad,Chennai Super Kings ,Chennai Super Kings vs Punjab Kings ,41,st †Sharma b Sikandar Raza,37,31,47,4,1,119.35
+2,Devon Conway,Chennai Super Kings ,Chennai Super Kings vs Punjab Kings ,41,not out,92,52,103,16,1,176.92
+3,Shivam Dube,Chennai Super Kings ,Chennai Super Kings vs Punjab Kings ,41,c Shahrukh Khan b Arshdeep Singh,28,17,23,1,2,164.7
+4,Moeen Ali,Chennai Super Kings ,Chennai Super Kings vs Punjab Kings ,41,st †Sharma b Chahar,10,6,12,2,0,166.66
+5,Ravindra Jadeja,Chennai Super Kings ,Chennai Super Kings vs Punjab Kings ,41,c Livingstone b Curran,12,10,15,0,0,120
+6,MS Dhoni (c)†,Chennai Super Kings ,Chennai Super Kings vs Punjab Kings ,41,not out,13,4,8,0,2,325
+1,Prabhsimran Singh,Punjab Kings ,Chennai Super Kings vs Punjab Kings ,41,st †Dhoni b Jadeja,42,24,41,4,2,175
+2,Shikhar Dhawan (c),Punjab Kings ,Chennai Super Kings vs Punjab Kings ,41,c Pathirana b Deshpande,28,15,24,4,1,186.66
+3,Atharva Taide,Punjab Kings ,Chennai Super Kings vs Punjab Kings ,41,c & b Jadeja,13,17,26,0,0,76.47
+4,Liam Livingstone,Punjab Kings ,Chennai Super Kings vs Punjab Kings ,41,c Gaikwad b Deshpande,40,24,38,1,4,166.66
+5,Sam Curran,Punjab Kings ,Chennai Super Kings vs Punjab Kings ,41,b Pathirana,29,20,36,1,1,145
+6,Jitesh Sharma †,Punjab Kings ,Chennai Super Kings vs Punjab Kings ,41,c sub (SK Rasheed) b Deshpande,21,10,21,2,1,210
+7,M Shahrukh Khan,Punjab Kings ,Chennai Super Kings vs Punjab Kings ,41,not out,2,3,21,0,0,66.66
+8,Sikandar Raza,Punjab Kings ,Chennai Super Kings vs Punjab Kings ,41,not out,13,7,9,1,0,185.71
+1,Yashasvi Jaiswal,Rajasthan Royals,Rajasthan Royals vs Mumbai Indians ,42,c & b Arshad Khan,124,62,112,16,8,200
+2,Jos Buttler,Rajasthan Royals,Rajasthan Royals vs Mumbai Indians ,42,c sub (Ramandeep Singh) b Chawla,18,19,40,2,1,94.73
+3,Sanju Samson (c)†,Rajasthan Royals,Rajasthan Royals vs Mumbai Indians ,42,c Tilak Varma b Arshad Khan,14,10,15,1,1,140
+4,Devdutt Padikkal,Rajasthan Royals,Rajasthan Royals vs Mumbai Indians ,42,b Chawla,2,4,6,0,0,50
+5,Jason Holder,Rajasthan Royals,Rajasthan Royals vs Mumbai Indians ,42,c David b Archer,11,9,18,0,1,122.22
+6,Shimron Hetmyer,Rajasthan Royals,Rajasthan Royals vs Mumbai Indians ,42,c Yadav b Arshad Khan,8,9,14,0,1,88.88
+7,Dhruv Jurel,Rajasthan Royals,Rajasthan Royals vs Mumbai Indians ,42,c Tilak Varma b Meredith,2,3,6,0,0,66.66
+8,Ravichandran Ashwin,Rajasthan Royals,Rajasthan Royals vs Mumbai Indians ,42,not out,8,5,20,1,0,160
+9,Trent Boult,Rajasthan Royals,Rajasthan Royals vs Mumbai Indians ,42,not out,0,0,4,0,0,-
+1,Rohit Sharma (c),Mumbai Indians ,Rajasthan Royals vs Mumbai Indians ,42,b Sandeep Sharma,3,5,12,0,0,60
+2,Ishan Kishan †,Mumbai Indians ,Rajasthan Royals vs Mumbai Indians ,42,c Boult b Ashwin,28,23,44,4,0,121.73
+3,Cameron Green,Mumbai Indians ,Rajasthan Royals vs Mumbai Indians ,42,c Boult b Ashwin,44,26,47,4,2,169.23
+4,Suryakumar Yadav,Mumbai Indians ,Rajasthan Royals vs Mumbai Indians ,42,c Sandeep Sharma b Boult,55,29,49,8,2,189.65
+5,Tilak Varma,Mumbai Indians ,Rajasthan Royals vs Mumbai Indians ,42,not out,29,21,63,3,1,138.09
+6,Tim David,Mumbai Indians ,Rajasthan Royals vs Mumbai Indians ,42,not out,45,14,27,2,5,321.42
+1,Virat Kohli,Royal Challengers Bangalore,Royal Challengers Bangalore vs Lucknow Super Giants ,43,st †Pooran b Ravi Bishnoi,31,30,42,3,0,103.33
+2,Faf du Plessis (c),Royal Challengers Bangalore,Royal Challengers Bangalore vs Lucknow Super Giants ,43,c Pandya b Mishra,44,40,83,1,1,110
+3,Anuj Rawat,Royal Challengers Bangalore,Royal Challengers Bangalore vs Lucknow Super Giants ,43,c Mayers b Gowtham,9,11,13,0,0,81.81
+4,Glenn Maxwell,Royal Challengers Bangalore,Royal Challengers Bangalore vs Lucknow Super Giants ,43,lbw b Ravi Bishnoi,4,5,8,0,0,80
+5,Suyash Prabhudessai,Royal Challengers Bangalore,Royal Challengers Bangalore vs Lucknow Super Giants ,43,c Gowtham b Mishra,6,7,10,0,0,85.71
+6,Dinesh Karthik †,Royal Challengers Bangalore,Royal Challengers Bangalore vs Lucknow Super Giants ,43,run out (Yash Thakur),16,11,25,1,1,145.45
+7,Mahipal Lomror,Royal Challengers Bangalore,Royal Challengers Bangalore vs Lucknow Super Giants ,43,lbw b Naveen-ul-Haq,3,4,7,0,0,75
+8,Wanindu Hasaranga,Royal Challengers Bangalore,Royal Challengers Bangalore vs Lucknow Super Giants ,43,not out,8,7,14,1,0,114.28
+9,Karn Sharma,Royal Challengers Bangalore,Royal Challengers Bangalore vs Lucknow Super Giants ,43,c Gowtham b Naveen-ul-Haq,2,2,5,0,0,100
+10,Mohammed Siraj,Royal Challengers Bangalore,Royal Challengers Bangalore vs Lucknow Super Giants ,43,c †Pooran b Naveen-ul-Haq,0,1,3,0,0,0
+11,Josh Hazlewood,Royal Challengers Bangalore,Royal Challengers Bangalore vs Lucknow Super Giants ,43,not out,1,2,3,0,0,50
+1,Kyle Mayers,Lucknow Super Giants ,Royal Challengers Bangalore vs Lucknow Super Giants ,43,c Anuj Rawat b Mohammed Siraj,0,2,3,0,0,0
+2,Ayush Badoni,Lucknow Super Giants ,Royal Challengers Bangalore vs Lucknow Super Giants ,43,c Kohli b Hazlewood,4,11,23,0,0,36.36
+3,Krunal Pandya,Lucknow Super Giants ,Royal Challengers Bangalore vs Lucknow Super Giants ,43,c Kohli b Maxwell,14,11,17,3,0,127.27
+4,Deepak Hooda,Lucknow Super Giants ,Royal Challengers Bangalore vs Lucknow Super Giants ,43,st †Karthik b de Silva,1,2,13,0,0,50
+5,Marcus Stoinis,Lucknow Super Giants ,Royal Challengers Bangalore vs Lucknow Super Giants ,43,c Prabhudessai b Sharma,13,19,31,0,1,68.42
+6,Nicholas Pooran †,Lucknow Super Giants ,Royal Challengers Bangalore vs Lucknow Super Giants ,43,c Lomror b Sharma,9,7,9,0,1,128.57
+7,Krishnappa Gowtham,Lucknow Super Giants ,Royal Challengers Bangalore vs Lucknow Super Giants ,43,run out (sub [R Sonu Yadav]/†Karthik),23,13,20,1,2,176.92
+8,Ravi Bishnoi,Lucknow Super Giants ,Royal Challengers Bangalore vs Lucknow Super Giants ,43,run out (Patel/†Karthik),5,10,19,0,0,50
+9,Amit Mishra,Lucknow Super Giants ,Royal Challengers Bangalore vs Lucknow Super Giants ,43,c †Karthik b Patel,19,30,42,2,0,63.33
+10,Naveen-ul-Haq,Lucknow Super Giants ,Royal Challengers Bangalore vs Lucknow Super Giants ,43,c †Karthik b Hazlewood,13,13,20,2,0,100
+11,KL Rahul (c),Lucknow Super Giants ,Royal Challengers Bangalore vs Lucknow Super Giants ,43,not out,0,3,7,0,0,0
+1,Phil Salt †,Delhi Capitals ,Delhi Capitals  vs Gujarat Titans,44,c Miller b Mohammed Shami,0,1,2,0,0,0
+2,David Warner (c),Delhi Capitals ,Delhi Capitals  vs Gujarat Titans,44,run out (Rashid Khan),2,2,10,0,0,100
+3,Priyam Garg,Delhi Capitals ,Delhi Capitals  vs Gujarat Titans,44,c †Saha b Mohammed Shami,10,14,26,0,0,71.42
+4,Rilee Rossouw,Delhi Capitals ,Delhi Capitals  vs Gujarat Titans,44,c †Saha b Mohammed Shami,8,6,9,2,0,133.33
+5,Manish Pandey,Delhi Capitals ,Delhi Capitals  vs Gujarat Titans,44,c †Saha b Mohammed Shami,1,4,7,0,0,25
+6,Axar Patel,Delhi Capitals ,Delhi Capitals  vs Gujarat Titans,44,c Rashid Khan b Sharma,27,30,43,2,1,90
+7,Aman Hakim Khan,Delhi Capitals ,Delhi Capitals  vs Gujarat Titans,44,c Manohar b Rashid Khan,51,44,62,3,3,115.9
+8,Ripal Patel,Delhi Capitals ,Delhi Capitals  vs Gujarat Titans,44,c Pandya b Sharma,23,13,32,2,1,176.92
+9,Anrich Nortje,Delhi Capitals ,Delhi Capitals  vs Gujarat Titans,44,not out,3,6,8,0,0,50
+10,Kuldeep Yadav,Delhi Capitals ,Delhi Capitals  vs Gujarat Titans,44,not out,0,1,1,0,0,0
+1,Wriddhiman Saha †,Gujarat Titans,Delhi Capitals  vs Gujarat Titans,44,c †Salt b Ahmed,0,6,6,0,0,0
+2,Shubman Gill,Gujarat Titans,Delhi Capitals  vs Gujarat Titans,44,c Pandey b Nortje,6,7,18,1,0,85.71
+3,Hardik Pandya (c),Gujarat Titans,Delhi Capitals  vs Gujarat Titans,44,not out,59,53,94,7,0,111.32
+4,Vijay Shankar,Gujarat Titans,Delhi Capitals  vs Gujarat Titans,44,b Sharma,6,9,11,1,0,66.66
+5,David Miller,Gujarat Titans,Delhi Capitals  vs Gujarat Titans,44,b Kuldeep Yadav,0,3,9,0,0,0
+6,Abhinav Manohar,Gujarat Titans,Delhi Capitals  vs Gujarat Titans,44,c Aman Hakim Khan b Ahmed,26,33,44,0,1,78.78
+7,Rahul Tewatia,Gujarat Titans,Delhi Capitals  vs Gujarat Titans,44,c Rossouw b Sharma,20,7,19,0,3,285.71
+8,Rashid Khan,Gujarat Titans,Delhi Capitals  vs Gujarat Titans,44,not out,3,2,3,0,0,150
+1,Manan Vohra,Lucknow Super Giants ,Lucknow Super Giants  vs Chennai Super Kings ,45,b Theekshana,10,11,27,1,0,90.9
+2,Kyle Mayers,Lucknow Super Giants ,Lucknow Super Giants  vs Chennai Super Kings ,45,c Gaikwad b Ali,14,17,17,2,0,82.35
+3,Karan Sharma,Lucknow Super Giants ,Lucknow Super Giants  vs Chennai Super Kings ,45,c & b Ali,9,16,32,0,0,56.25
+4,Krunal Pandya (c),Lucknow Super Giants ,Lucknow Super Giants  vs Chennai Super Kings ,45,c Rahane b Theekshana,0,1,3,0,0,0
+5,Marcus Stoinis,Lucknow Super Giants ,Lucknow Super Giants  vs Chennai Super Kings ,45,b Jadeja,6,4,5,1,0,150
+6,Nicholas Pooran †,Lucknow Super Giants ,Lucknow Super Giants  vs Chennai Super Kings ,45,c Ali b Pathirana,20,31,46,0,0,64.51
+7,Ayush Badoni,Lucknow Super Giants ,Lucknow Super Giants  vs Chennai Super Kings ,45,not out,59,33,41,2,4,178.78
+8,Krishnappa Gowtham,Lucknow Super Giants ,Lucknow Super Giants  vs Chennai Super Kings ,45,c Rahane b Pathirana,1,3,10,0,0,33.33
+1,Prabhsimran Singh,Punjab Kings ,Punjab Kings vs Mumbai Indians ,46,c †Ishan Kishan b Arshad Khan,9,7,8,1,0,128.57
+2,Shikhar Dhawan (c),Punjab Kings ,Punjab Kings vs Mumbai Indians ,46,st †Ishan Kishan b Chawla,30,20,35,5,0,150
+3,Matthew Short,Punjab Kings ,Punjab Kings vs Mumbai Indians ,46,b Chawla,27,26,46,2,1,103.84
+4,Liam Livingstone,Punjab Kings ,Punjab Kings vs Mumbai Indians ,46,not out,82,42,65,7,4,195.23
+5,Jitesh Sharma †,Punjab Kings ,Punjab Kings vs Mumbai Indians ,46,not out,49,27,46,5,2,181.48
+1,Rohit Sharma (c),Mumbai Indians ,Punjab Kings vs Mumbai Indians ,46,c Short b R Dhawan,0,3,3,0,0,0
+2,Ishan Kishan †,Mumbai Indians ,Punjab Kings vs Mumbai Indians ,46,c R Dhawan b Arshdeep Singh,75,41,80,7,4,182.92
+3,Cameron Green,Mumbai Indians ,Punjab Kings vs Mumbai Indians ,46,c Chahar b Ellis,23,18,29,4,0,127.77
+4,Suryakumar Yadav,Mumbai Indians ,Punjab Kings vs Mumbai Indians ,46,c Arshdeep Singh b Ellis,66,31,44,8,2,212.9
+5,Tim David,Mumbai Indians ,Punjab Kings vs Mumbai Indians ,46,not out,19,10,21,3,0,190
+6,Tilak Varma,Mumbai Indians ,Punjab Kings vs Mumbai Indians ,46,not out,26,10,15,1,3,260
+1,Jason Roy,Kolkata Knight Riders,Kolkata Knight Riders vs Sunrisers Hyderabad ,47,c Agarwal b Kartik Tyagi,20,19,27,4,0,105.26
+2,Rahmanullah Gurbaz †,Kolkata Knight Riders,Kolkata Knight Riders vs Sunrisers Hyderabad ,47,c Brook b Jansen,0,1,7,0,0,0
+3,Venkatesh Iyer,Kolkata Knight Riders,Kolkata Knight Riders vs Sunrisers Hyderabad ,47,c †Klaasen b Jansen,7,4,6,1,0,175
+4,Nitish Rana (c),Kolkata Knight Riders,Kolkata Knight Riders vs Sunrisers Hyderabad ,47,c & b Markram,42,31,46,3,3,135.48
+5,Rinku Singh,Kolkata Knight Riders,Kolkata Knight Riders vs Sunrisers Hyderabad ,47,c Abdul Samad b Natarajan,46,35,67,4,1,131.42
+6,Andre Russell,Kolkata Knight Riders,Kolkata Knight Riders vs Sunrisers Hyderabad ,47,c Natarajan b Markande,24,15,13,1,2,160
+7,Sunil Narine,Kolkata Knight Riders,Kolkata Knight Riders vs Sunrisers Hyderabad ,47,c Agarwal b Kumar,1,2,6,0,0,50
+8,Shardul Thakur,Kolkata Knight Riders,Kolkata Knight Riders vs Sunrisers Hyderabad ,47,c Abdul Samad b Natarajan,8,6,9,1,0,133.33
+9,Anukul Roy,Kolkata Knight Riders,Kolkata Knight Riders vs Sunrisers Hyderabad ,47,not out,13,7,11,2,0,185.71
+10,Harshit Rana,Kolkata Knight Riders,Kolkata Knight Riders vs Sunrisers Hyderabad ,47,run out (†Klaasen/Natarajan),0,1,2,0,0,0
+11,Vaibhav Arora,Kolkata Knight Riders,Kolkata Knight Riders vs Sunrisers Hyderabad ,47,not out,2,1,2,0,0,200
+1,Abhishek Sharma,Sunrisers Hyderabad ,Kolkata Knight Riders vs Sunrisers Hyderabad ,47,c Russell b Thakur,9,10,25,1,0,90
+2,Mayank Agarwal,Sunrisers Hyderabad ,Kolkata Knight Riders vs Sunrisers Hyderabad ,47,c †Rahmanullah Gurbaz b Harshit Rana,18,11,17,2,1,163.63
+3,Rahul Tripathi,Sunrisers Hyderabad ,Kolkata Knight Riders vs Sunrisers Hyderabad ,47,c Arora b Russell,20,9,17,3,1,222.22
+4,Aiden Markram (c),Sunrisers Hyderabad ,Kolkata Knight Riders vs Sunrisers Hyderabad ,47,c Singh b Arora,41,40,64,4,0,102.5
+5,Harry Brook,Sunrisers Hyderabad ,Kolkata Knight Riders vs Sunrisers Hyderabad ,47,lbw b AS Roy,0,4,6,0,0,0
+6,Heinrich Klaasen †,Sunrisers Hyderabad ,Kolkata Knight Riders vs Sunrisers Hyderabad ,47,c Russell b Thakur,36,20,34,1,3,180
+7,Abdul Samad,Sunrisers Hyderabad ,Kolkata Knight Riders vs Sunrisers Hyderabad ,47,c AS Roy b Varun,21,18,34,3,0,116.66
+8,Marco Jansen,Sunrisers Hyderabad ,Kolkata Knight Riders vs Sunrisers Hyderabad ,47,c †Rahmanullah Gurbaz b Arora,1,4,10,0,0,25
+9,Bhuvneshwar Kumar,Sunrisers Hyderabad ,Kolkata Knight Riders vs Sunrisers Hyderabad ,47,not out,5,5,16,1,0,100
+10,Mayank Markande,Sunrisers Hyderabad ,Kolkata Knight Riders vs Sunrisers Hyderabad ,47,not out,1,2,6,0,0,50
+1,Yashasvi Jaiswal,Rajasthan Royals,Rajasthan Royals vs Gujarat Titans,48,run out (Sharma/Rashid Khan),14,11,31,1,1,127.27
+2,Jos Buttler,Rajasthan Royals,Rajasthan Royals vs Gujarat Titans,48,c Sharma b Pandya,8,6,10,2,0,133.33
+3,Sanju Samson (c)†,Rajasthan Royals,Rajasthan Royals vs Gujarat Titans,48,c Pandya b Little,30,20,27,3,1,150
+4,Devdutt Padikkal,Rajasthan Royals,Rajasthan Royals vs Gujarat Titans,48,b Noor Ahmad,12,12,30,1,0,100
+5,Ravichandran Ashwin,Rajasthan Royals,Rajasthan Royals vs Gujarat Titans,48,b Rashid Khan,2,6,6,0,0,33.33
+6,Riyan Parag,Rajasthan Royals,Rajasthan Royals vs Gujarat Titans,48,lbw b Rashid Khan,4,6,8,0,0,66.66
+7,Shimron Hetmyer,Rajasthan Royals,Rajasthan Royals vs Gujarat Titans,48,lbw b Rashid Khan,7,13,29,0,0,53.84
+8,Dhruv Jurel,Rajasthan Royals,Rajasthan Royals vs Gujarat Titans,48,lbw b Noor Ahmad,9,8,13,1,0,112.5
+9,Trent Boult,Rajasthan Royals,Rajasthan Royals vs Gujarat Titans,48,b Mohammed Shami,15,11,15,1,1,136.36
+10,Adam Zampa,Rajasthan Royals,Rajasthan Royals vs Gujarat Titans,48,run out (Manohar),7,9,19,0,0,77.77
+11,Sandeep Sharma,Rajasthan Royals,Rajasthan Royals vs Gujarat Titans,48,not out,2,5,8,0,0,40
+1,Wriddhiman Saha †,Gujarat Titans,Rajasthan Royals vs Gujarat Titans,48,not out,41,34,55,5,0,120.58
+2,Shubman Gill,Gujarat Titans,Rajasthan Royals vs Gujarat Titans,48,st †Samson b Chahal,36,35,39,6,0,102.85
+3,Hardik Pandya (c),Gujarat Titans,Rajasthan Royals vs Gujarat Titans,48,not out,39,15,17,3,3,260
+1,Cameron Green,Mumbai Indians ,Mumbai Indians vs Chennai Super Kings ,49,b Deshpande,6,4,10,1,0,150
+2,Ishan Kishan †,Mumbai Indians ,Mumbai Indians vs Chennai Super Kings ,49,c Theekshana b Chahar,7,9,15,1,0,77.77
+3,Rohit Sharma (c),Mumbai Indians ,Mumbai Indians vs Chennai Super Kings ,49,c Jadeja b Chahar,0,3,9,0,0,0
+4,Nehal Wadhera,Mumbai Indians ,Mumbai Indians vs Chennai Super Kings ,49,b Pathirana,64,51,68,8,1,125.49
+5,Suryakumar Yadav,Mumbai Indians ,Mumbai Indians vs Chennai Super Kings ,49,b Jadeja,26,22,35,3,0,118.18
+6,Tristan Stubbs,Mumbai Indians ,Mumbai Indians vs Chennai Super Kings ,49,c Jadeja b Pathirana,20,21,44,2,0,95.23
+7,Tim David,Mumbai Indians ,Mumbai Indians vs Chennai Super Kings ,49,c Gaikwad b Deshpande,2,4,7,0,0,50
+8,Arshad Khan,Mumbai Indians ,Mumbai Indians vs Chennai Super Kings ,49,c Gaikwad b Pathirana,1,2,6,0,0,50
+9,Jofra Archer,Mumbai Indians ,Mumbai Indians vs Chennai Super Kings ,49,not out,3,2,5,0,0,150
+10,Piyush Chawla,Mumbai Indians ,Mumbai Indians vs Chennai Super Kings ,49,not out,2,2,2,0,0,100
+1,Ruturaj Gaikwad,Chennai Super Kings ,Mumbai Indians vs Chennai Super Kings ,49,c †Ishan Kishan b Chawla,30,16,23,4,2,187.5
+2,Devon Conway,Chennai Super Kings ,Mumbai Indians vs Chennai Super Kings ,49,lbw b Madhwal,44,42,83,4,0,104.76
+3,Ajinkya Rahane,Chennai Super Kings ,Mumbai Indians vs Chennai Super Kings ,49,lbw b Chawla,21,17,23,1,1,123.52
+4,Ambati Rayudu,Chennai Super Kings ,Mumbai Indians vs Chennai Super Kings ,49,c Goyal b Stubbs,12,11,16,0,1,109.09
+5,Shivam Dube,Chennai Super Kings ,Mumbai Indians vs Chennai Super Kings ,49,not out,26,18,27,0,3,144.44
+6,MS Dhoni (c)†,Chennai Super Kings ,Mumbai Indians vs Chennai Super Kings ,49,not out,2,3,7,0,0,66.66
+1,Virat Kohli,Royal Challengers Bangalore,Royal Challengers Bangalore Delhi Capitals ,50,c Ahmed b Mukesh Kumar,55,46,74,5,0,119.56
+2,Faf du Plessis (c),Royal Challengers Bangalore,Royal Challengers Bangalore Delhi Capitals ,50,c AR Patel b Marsh,45,32,46,5,1,140.62
+3,Glenn Maxwell,Royal Challengers Bangalore,Royal Challengers Bangalore Delhi Capitals ,50,c †Salt b Marsh,0,1,2,0,0,0
+4,Mahipal Lomror,Royal Challengers Bangalore,Royal Challengers Bangalore Delhi Capitals ,50,not out,54,29,53,6,3,186.2
+5,Dinesh Karthik †,Royal Challengers Bangalore,Royal Challengers Bangalore Delhi Capitals ,50,c Warner b Ahmed,11,9,22,0,1,122.22
+6,Anuj Rawat,Royal Challengers Bangalore,Royal Challengers Bangalore Delhi Capitals ,50,not out,8,3,5,0,1,266.66
+1,David Warner (c),Delhi Capitals ,Royal Challengers Bangalore Delhi Capitals ,50,c du Plessis b Hazlewood,22,14,26,3,1,157.14
+2,Phil Salt †,Delhi Capitals ,Royal Challengers Bangalore Delhi Capitals ,50,b Sharma,87,45,76,8,6,193.33
+3,Mitchell Marsh,Delhi Capitals ,Royal Challengers Bangalore Delhi Capitals ,50,c Lomror b Patel,26,17,22,3,1,152.94
+4,Rilee Rossouw,Delhi Capitals ,Royal Challengers Bangalore Delhi Capitals ,50,not out,35,22,34,1,3,159.09
+5,Axar Patel,Delhi Capitals ,Royal Challengers Bangalore Delhi Capitals ,50,not out,8,3,5,0,1,266.66
+1,Wriddhiman Saha †,Gujarat Titans,Gujarat Titans vs Lucknow Super Giants ,51,c sub (PN Mankad) b Avesh Khan,81,43,59,10,4,188.37
+2,Shubman Gill,Gujarat Titans,Gujarat Titans vs Lucknow Super Giants ,51,not out,94,51,96,2,7,184.31
+3,Hardik Pandya (c),Gujarat Titans,Gujarat Titans vs Lucknow Super Giants ,51,c Pandya b Mohsin Khan,25,15,20,1,2,166.66
+4,David Miller,Gujarat Titans,Gujarat Titans vs Lucknow Super Giants ,51,not out,21,12,19,2,1,175
+1,Kyle Mayers,Lucknow Super Giants ,Gujarat Titans vs Lucknow Super Giants ,51,c Rashid Khan b Sharma,48,32,46,7,2,150
+2,Quinton de Kock †,Lucknow Super Giants ,Gujarat Titans vs Lucknow Super Giants ,51,b Rashid Khan,70,41,88,7,3,170.73
+3,Deepak Hooda,Lucknow Super Giants ,Gujarat Titans vs Lucknow Super Giants ,51,c Tewatia b Mohammed Shami,11,11,24,0,0,100
+4,Marcus Stoinis,Lucknow Super Giants ,Gujarat Titans vs Lucknow Super Giants ,51,c Mohammed Shami b Sharma,4,9,15,0,0,44.44
+5,Nicholas Pooran,Lucknow Super Giants ,Gujarat Titans vs Lucknow Super Giants ,51,c Mohammed Shami b Noor Ahmad,3,6,15,0,0,50
+6,Ayush Badoni,Lucknow Super Giants ,Gujarat Titans vs Lucknow Super Giants ,51,c Noor Ahmad b Sharma,21,11,15,1,2,190.9
+7,Swapnil Singh,Lucknow Super Giants ,Gujarat Titans vs Lucknow Super Giants ,51,not out,2,4,14,0,0,50
+8,Krunal Pandya (c),Lucknow Super Giants ,Gujarat Titans vs Lucknow Super Giants ,51,c Miller b Sharma,0,1,2,0,0,0
+9,Ravi Bishnoi,Lucknow Super Giants ,Gujarat Titans vs Lucknow Super Giants ,51,not out,4,5,5,1,0,80
+1,Yashasvi Jaiswal,Rajasthan Royals,Rajasthan Royals vs Sunrisers Hyderabad ,52,c Natarajan b Jansen,35,18,27,5,2,194.44
+2,Jos Buttler,Rajasthan Royals,Rajasthan Royals vs Sunrisers Hyderabad ,52,lbw b Kumar,95,59,84,10,4,161.01
+3,Sanju Samson (c)†,Rajasthan Royals,Rajasthan Royals vs Sunrisers Hyderabad ,52,not out,66,38,66,4,5,173.68
+4,Shimron Hetmyer,Rajasthan Royals,Rajasthan Royals vs Sunrisers Hyderabad ,52,not out,7,5,8,0,0,140
+1,Anmolpreet Singh,Sunrisers Hyderabad ,Rajasthan Royals vs Sunrisers Hyderabad ,52,c Hetmyer b Chahal,33,25,26,4,1,132
+2,Abhishek Sharma,Sunrisers Hyderabad ,Rajasthan Royals vs Sunrisers Hyderabad ,52,c Chahal b R Ashwin,55,34,57,5,2,161.76
+3,Rahul Tripathi,Sunrisers Hyderabad ,Rajasthan Royals vs Sunrisers Hyderabad ,52,c Jaiswal b Chahal,47,29,57,2,3,162.06
+4,Heinrich Klaasen †,Sunrisers Hyderabad ,Rajasthan Royals vs Sunrisers Hyderabad ,52,c Buttler b Chahal,26,12,15,2,2,216.66
+5,Aiden Markram (c),Sunrisers Hyderabad ,Rajasthan Royals vs Sunrisers Hyderabad ,52,lbw b Chahal,6,5,13,1,0,120
+6,Glenn Phillips,Sunrisers Hyderabad ,Rajasthan Royals vs Sunrisers Hyderabad ,52,c Hetmyer b Yadav,25,7,12,1,3,357.14
+7,Abdul Samad,Sunrisers Hyderabad ,Rajasthan Royals vs Sunrisers Hyderabad ,52,not out,17,7,17,0,2,242.85
+8,Marco Jansen,Sunrisers Hyderabad ,Rajasthan Royals vs Sunrisers Hyderabad ,52,not out,3,2,10,0,0,150
+1,Prabhsimran Singh,Punjab Kings ,Punjab Kings vs Kolkata Knight Riders,53,c †Rahmanullah Gurbaz b Harshit Rana,12,8,11,3,0,150
+2,Shikhar Dhawan (c),Punjab Kings ,Punjab Kings vs Kolkata Knight Riders,53,c Arora b Rana,57,47,80,9,1,121.27
+3,Bhanuka Rajapaksa,Punjab Kings ,Punjab Kings vs Kolkata Knight Riders,53,c †Rahmanullah Gurbaz b Harshit Rana,0,3,11,0,0,0
+4,Liam Livingstone,Punjab Kings ,Punjab Kings vs Kolkata Knight Riders,53,lbw b Varun,15,9,16,3,0,166.66
+5,Jitesh Sharma †,Punjab Kings ,Punjab Kings vs Kolkata Knight Riders,53,c †Rahmanullah Gurbaz b Varun,21,18,34,0,2,116.66
+6,Sam Curran,Punjab Kings ,Punjab Kings vs Kolkata Knight Riders,53,c †Rahmanullah Gurbaz b Suyash Sharma,4,9,25,0,0,44.44
+7,Rishi Dhawan,Punjab Kings ,Punjab Kings vs Kolkata Knight Riders,53,b Varun,19,11,12,1,1,172.72
+8,M Shahrukh Khan,Punjab Kings ,Punjab Kings vs Kolkata Knight Riders,53,not out,21,8,20,3,1,262.5
+9,Harpreet Brar,Punjab Kings ,Punjab Kings vs Kolkata Knight Riders,53,not out,17,9,17,2,1,188.88
+1,Jason Roy,Kolkata Knight Riders,Punjab Kings vs Kolkata Knight Riders,53,c Shahrukh Khan b Harpreet Brar,38,24,40,8,0,158.33
+2,Rahmanullah Gurbaz †,Kolkata Knight Riders,Punjab Kings vs Kolkata Knight Riders,53,lbw b Ellis,15,12,25,1,1,125
+3,Nitish Rana (c),Kolkata Knight Riders,Punjab Kings vs Kolkata Knight Riders,53,c Livingstone b Chahar,51,38,50,6,1,134.21
+4,Venkatesh Iyer,Kolkata Knight Riders,Punjab Kings vs Kolkata Knight Riders,53,c Livingstone b Chahar,11,13,28,0,0,84.61
+5,Andre Russell,Kolkata Knight Riders,Punjab Kings vs Kolkata Knight Riders,53,run out (†Sharma/Arshdeep Singh),42,23,34,3,3,182.6
+6,Rinku Singh,Kolkata Knight Riders,Punjab Kings vs Kolkata Knight Riders,53,not out,21,10,25,2,1,210
+7,Shardul Thakur,Kolkata Knight Riders,Punjab Kings vs Kolkata Knight Riders,53,not out,0,0,1,0,0,-
+1,Virat Kohli,Royal Challengers Bangalore,Royal Challengers Bangalore vs Mumbai Indians ,54,c †Ishan Kishan b Behrendorff,1,4,7,0,0,25
+2,Faf du Plessis (c),Royal Challengers Bangalore,Royal Challengers Bangalore vs Mumbai Indians ,54,c sub (Vishnu Vinod) b Green,65,41,78,5,3,158.53
+3,Anuj Rawat,Royal Challengers Bangalore,Royal Challengers Bangalore vs Mumbai Indians ,54,c Green b Behrendorff,6,4,8,1,0,150
+4,Glenn Maxwell,Royal Challengers Bangalore,Royal Challengers Bangalore vs Mumbai Indians ,54,c Wadhera b Behrendorff,68,33,53,8,4,206.06
+5,Mahipal Lomror,Royal Challengers Bangalore,Royal Challengers Bangalore vs Mumbai Indians ,54,b Kartikeya,1,3,6,0,0,33.33
+6,Dinesh Karthik †,Royal Challengers Bangalore,Royal Challengers Bangalore vs Mumbai Indians ,54,c Wadhera b Jordan,30,18,31,4,1,166.66
+7,Kedar Jadhav,Royal Challengers Bangalore,Royal Challengers Bangalore vs Mumbai Indians ,54,not out,12,10,33,1,0,120
+8,Wanindu Hasaranga,Royal Challengers Bangalore,Royal Challengers Bangalore vs Mumbai Indians ,54,not out,12,8,11,2,0,150
+1,Ishan Kishan †,Mumbai Indians ,Royal Challengers Bangalore vs Mumbai Indians ,54,c †Anuj Rawat b de Silva,42,21,24,4,4,200
+2,Rohit Sharma (c),Mumbai Indians ,Royal Challengers Bangalore vs Mumbai Indians ,54,lbw b de Silva,7,8,27,1,0,87.5
+3,Suryakumar Yadav,Mumbai Indians ,Royal Challengers Bangalore vs Mumbai Indians ,54,c Jadhav b Vyshak,83,35,60,7,6,237.14
+4,Nehal Wadhera,Mumbai Indians ,Royal Challengers Bangalore vs Mumbai Indians ,54,not out,52,34,61,4,3,152.94
+5,Tim David,Mumbai Indians ,Royal Challengers Bangalore vs Mumbai Indians ,54,c Maxwell b Vyshak,0,1,2,0,0,0
+6,Cameron Green,Mumbai Indians ,Royal Challengers Bangalore vs Mumbai Indians ,54,not out,2,2,4,0,0,100
+1,Ruturaj Gaikwad,Chennai Super Kings ,Chennai Super Kings  vs Delhi Capitals ,55,c Aman Hakim Khan b AR Patel,24,18,39,4,0,133.33
+2,Devon Conway,Chennai Super Kings ,Chennai Super Kings  vs Delhi Capitals ,55,lbw b AR Patel,10,13,28,1,0,76.92
+3,Ajinkya Rahane,Chennai Super Kings ,Chennai Super Kings  vs Delhi Capitals ,55,c & b Lalit Yadav,21,20,31,2,0,105
+4,Moeen Ali,Chennai Super Kings ,Chennai Super Kings  vs Delhi Capitals ,55,c Marsh b Kuldeep Yadav,7,12,13,0,0,58.33
+5,Shivam Dube,Chennai Super Kings ,Chennai Super Kings  vs Delhi Capitals ,55,c Warner b Marsh,25,12,24,0,3,208.33
+6,Ambati Rayudu,Chennai Super Kings ,Chennai Super Kings  vs Delhi Capitals ,55,c RV Patel b Ahmed,23,17,28,1,1,135.29
+7,Ravindra Jadeja,Chennai Super Kings ,Chennai Super Kings  vs Delhi Capitals ,55,c AR Patel b Marsh,21,16,30,1,1,131.25
+8,MS Dhoni (c)†,Chennai Super Kings ,Chennai Super Kings  vs Delhi Capitals ,55,c Warner b Marsh,20,9,22,1,2,222.22
+9,Deepak Chahar,Chennai Super Kings ,Chennai Super Kings  vs Delhi Capitals ,55,not out,1,2,6,0,0,50
+10,Tushar Deshpande,Chennai Super Kings ,Chennai Super Kings  vs Delhi Capitals ,55,not out,0,1,2,0,0,0
+1,David Warner (c),Delhi Capitals ,Chennai Super Kings  vs Delhi Capitals ,55,c Rahane b Chahar,0,2,2,0,0,0
+2,Phil Salt †,Delhi Capitals ,Chennai Super Kings  vs Delhi Capitals ,55,c Rayudu b Chahar,17,11,19,1,2,154.54
+3,Mitchell Marsh,Delhi Capitals ,Chennai Super Kings  vs Delhi Capitals ,55,run out (Rahane),5,4,21,1,0,125
+4,Manish Pandey,Delhi Capitals ,Chennai Super Kings  vs Delhi Capitals ,55,lbw b Pathirana,27,29,42,1,2,93.1
+5,Rilee Rossouw,Delhi Capitals ,Chennai Super Kings  vs Delhi Capitals ,55,c Pathirana b Jadeja,35,37,44,2,1,94.59
+6,Ripal Patel,Delhi Capitals ,Chennai Super Kings  vs Delhi Capitals ,55,run out (Ali),10,16,31,0,0,62.5
+7,Axar Patel,Delhi Capitals ,Chennai Super Kings  vs Delhi Capitals ,55,c Rahane b Pathirana,21,12,20,2,1,175
+8,Aman Hakim Khan,Delhi Capitals ,Chennai Super Kings  vs Delhi Capitals ,55,not out,2,3,13,0,0,66.66
+9,Lalit Yadav,Delhi Capitals ,Chennai Super Kings  vs Delhi Capitals ,55,b Pathirana,12,5,7,3,0,240
+10,Kuldeep Yadav,Delhi Capitals ,Chennai Super Kings  vs Delhi Capitals ,55,not out,0,1,1,0,0,0
+1,Jason Roy,Kolkata Knight Riders,Kolkata Knight Riders vs Rajasthan Royals,56,c Hetmyer b Boult,10,8,14,2,0,125
+2,Rahmanullah Gurbaz †,Kolkata Knight Riders,Kolkata Knight Riders vs Rajasthan Royals,56,c Sandeep Sharma b Boult,18,12,23,1,2,150
+3,Venkatesh Iyer,Kolkata Knight Riders,Kolkata Knight Riders vs Rajasthan Royals,56,c Boult b Chahal,57,42,68,2,4,135.71
+4,Nitish Rana (c),Kolkata Knight Riders,Kolkata Knight Riders vs Rajasthan Royals,56,c Hetmyer b Chahal,22,17,26,2,0,129.41
+5,Andre Russell,Kolkata Knight Riders,Kolkata Knight Riders vs Rajasthan Royals,56,c Ashwin b Asif,10,10,19,0,1,100
+6,Rinku Singh,Kolkata Knight Riders,Kolkata Knight Riders vs Rajasthan Royals,56,c Root b Chahal,16,18,30,0,1,88.88
+7,Shardul Thakur,Kolkata Knight Riders,Kolkata Knight Riders vs Rajasthan Royals,56,lbw b Chahal,1,2,5,0,0,50
+8,Anukul Roy,Kolkata Knight Riders,Kolkata Knight Riders vs Rajasthan Royals,56,not out,6,6,20,0,0,100
+9,Sunil Narine,Kolkata Knight Riders,Kolkata Knight Riders vs Rajasthan Royals,56,c Root b Sandeep Sharma,6,5,9,1,0,120
+1,Yashasvi Jaiswal,Rajasthan Royals,Kolkata Knight Riders vs Rajasthan Royals,56,not out,98,47,62,12,5,208.51
+2,Jos Buttler,Rajasthan Royals,Kolkata Knight Riders vs Rajasthan Royals,56,run out (Russell),0,3,10,0,0,0
+3,Sanju Samson (c)†,Rajasthan Royals,Kolkata Knight Riders vs Rajasthan Royals,56,not out,48,29,53,2,5,165.51
+1,Ishan Kishan †,Mumbai Indians ,Mumbai Indians vs Gujarat Titans,57,lbw b Rashid Khan,31,20,38,4,1,155
+2,Rohit Sharma (c),Mumbai Indians ,Mumbai Indians vs Gujarat Titans,57,c Tewatia b Rashid Khan,29,18,34,3,2,161.11
+3,Suryakumar Yadav,Mumbai Indians ,Mumbai Indians vs Gujarat Titans,57,not out,103,49,73,11,6,210.2
+4,Nehal Wadhera,Mumbai Indians ,Mumbai Indians vs Gujarat Titans,57,b Rashid Khan,15,7,12,1,1,214.28
+5,Vishnu Vinod,Mumbai Indians ,Mumbai Indians vs Gujarat Titans,57,c Manohar b Sharma,30,20,36,2,2,150
+6,Tim David,Mumbai Indians ,Mumbai Indians vs Gujarat Titans,57,c & b Rashid Khan,5,3,6,1,0,166.66
+7,Cameron Green,Mumbai Indians ,Mumbai Indians vs Gujarat Titans,57,not out,3,3,18,0,0,100
+1,Wriddhiman Saha †,Gujarat Titans,Mumbai Indians vs Gujarat Titans,57,lbw b Madhwal,2,5,10,0,0,40
+2,Shubman Gill,Gujarat Titans,Mumbai Indians vs Gujarat Titans,57,b Madhwal,6,9,20,0,0,66.66
+3,Hardik Pandya (c),Gujarat Titans,Mumbai Indians vs Gujarat Titans,57,c †Ishan Kishan b Behrendorff,4,3,5,1,0,133.33
+4,Vijay Shankar,Gujarat Titans,Mumbai Indians vs Gujarat Titans,57,b Chawla,29,14,22,6,0,207.14
+5,David Miller,Gujarat Titans,Mumbai Indians vs Gujarat Titans,57,lbw b Madhwal,41,26,47,4,2,157.69
+6,Abhinav Manohar,Gujarat Titans,Mumbai Indians vs Gujarat Titans,57,b Kartikeya,2,3,5,0,0,66.66
+7,Rahul Tewatia,Gujarat Titans,Mumbai Indians vs Gujarat Titans,57,c Green b Chawla,14,13,29,1,0,107.69
+8,Rashid Khan,Gujarat Titans,Mumbai Indians vs Gujarat Titans,57,not out,79,32,44,3,10,246.87
+9,Noor Ahmad,Gujarat Titans,Mumbai Indians vs Gujarat Titans,57,b Kartikeya,1,3,5,0,0,33.33
+10,Alzarri Joseph,Gujarat Titans,Mumbai Indians vs Gujarat Titans,57,not out,7,12,37,1,0,58.33
+1,Anmolpreet Singh,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Lucknow Super Giants ,58,c & b Mishra,36,27,46,7,0,133.33
+2,Abhishek Sharma,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Lucknow Super Giants ,58,c †de Kock b Yudhvir Singh,7,5,14,1,0,140
+3,Rahul Tripathi,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Lucknow Super Giants ,58,c †de Kock b Yash Thakur,20,13,19,4,0,153.84
+4,Aiden Markram (c),Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Lucknow Super Giants ,58,st †de Kock b Pandya,28,20,28,2,1,140
+5,Heinrich Klaasen †,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Lucknow Super Giants ,58,c Mankad b Avesh Khan,47,29,52,3,3,162.06
+6,Glenn Phillips,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Lucknow Super Giants ,58,b Pandya,0,1,2,0,0,0
+7,Abdul Samad,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Lucknow Super Giants ,58,not out,37,25,41,1,4,148
+8,Bhuvneshwar Kumar,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Lucknow Super Giants ,58,not out,2,1,6,0,0,200
+1,Kyle Mayers,Lucknow Super Giants ,Sunrisers Hyderabad  vs Lucknow Super Giants ,58,c Markram b Phillips,2,14,16,0,0,14.28
+2,Quinton de Kock †,Lucknow Super Giants ,Sunrisers Hyderabad  vs Lucknow Super Giants ,58,c Abhishek Sharma b Markande,29,19,39,3,1,152.63
+3,Prerak Mankad,Lucknow Super Giants ,Sunrisers Hyderabad  vs Lucknow Super Giants ,58,not out,64,45,78,7,2,142.22
+4,Marcus Stoinis,Lucknow Super Giants ,Sunrisers Hyderabad  vs Lucknow Super Giants ,58,c Abdul Samad b Abhishek Sharma,40,25,34,2,3,160
+5,Nicholas Pooran,Lucknow Super Giants ,Sunrisers Hyderabad  vs Lucknow Super Giants ,58,not out,44,13,22,3,4,338.46
+1,Prabhsimran Singh,Punjab Kings ,Punjab Kings  vs Delhi Capitals ,59,b Mukesh Kumar,103,65,87,10,6,158.46
+2,Shikhar Dhawan (c),Punjab Kings ,Punjab Kings  vs Delhi Capitals ,59,c Rossouw b Sharma,7,5,9,0,1,140
+3,Liam Livingstone,Punjab Kings ,Punjab Kings  vs Delhi Capitals ,59,b Sharma,4,5,15,1,0,80
+4,Jitesh Sharma †,Punjab Kings ,Punjab Kings  vs Delhi Capitals ,59,b Patel,5,5,8,1,0,100
+5,Sam Curran,Punjab Kings ,Punjab Kings  vs Delhi Capitals ,59,c Aman Hakim Khan b Dubey,20,24,39,1,0,83.33
+6,Harpreet Brar,Punjab Kings ,Punjab Kings  vs Delhi Capitals ,59,c Marsh b Kuldeep Yadav,2,5,9,0,0,40
+7,M Shahrukh Khan,Punjab Kings ,Punjab Kings  vs Delhi Capitals ,59,run out (†Salt/Ahmed),2,4,22,0,0,50
+8,Sikandar Raza,Punjab Kings ,Punjab Kings  vs Delhi Capitals ,59,not out,11,7,11,0,1,157.14
+9,Rishi Dhawan,Punjab Kings ,Punjab Kings  vs Delhi Capitals ,59,not out,0,0,1,0,0,-
+1,David Warner (c),Delhi Capitals ,Punjab Kings  vs Delhi Capitals ,59,lbw b Harpreet Brar,54,27,49,10,1,200
+2,Phil Salt †,Delhi Capitals ,Punjab Kings  vs Delhi Capitals ,59,b Harpreet Brar,21,17,31,3,0,123.52
+3,Mitchell Marsh,Delhi Capitals ,Punjab Kings  vs Delhi Capitals ,59,lbw b Chahar,3,4,7,0,0,75
+4,Rilee Rossouw,Delhi Capitals ,Punjab Kings  vs Delhi Capitals ,59,c Sikandar Raza b Harpreet Brar,5,5,6,1,0,100
+5,Axar Patel,Delhi Capitals ,Punjab Kings  vs Delhi Capitals ,59,lbw b Chahar,1,2,12,0,0,50
+6,Manish Pandey,Delhi Capitals ,Punjab Kings  vs Delhi Capitals ,59,b Harpreet Brar,0,3,7,0,0,0
+7,Aman Hakim Khan,Delhi Capitals ,Punjab Kings  vs Delhi Capitals ,59,c Harpreet Brar b Ellis,16,18,24,1,1,88.88
+8,Praveen Dubey,Delhi Capitals ,Punjab Kings  vs Delhi Capitals ,59,b Ellis,16,20,29,2,0,80
+9,Kuldeep Yadav,Delhi Capitals ,Punjab Kings  vs Delhi Capitals ,59,not out,10,17,21,0,0,58.82
+10,Mukesh Kumar,Delhi Capitals ,Punjab Kings  vs Delhi Capitals ,59,not out,6,7,12,0,0,85.71
+1,Virat Kohli,Royal Challengers Bangalore,Royal Challengers Bangalore vs Rajasthan Royals,60,c Jaiswal b Asif,18,19,31,1,0,94.73
+2,Faf du Plessis (c),Royal Challengers Bangalore,Royal Challengers Bangalore vs Rajasthan Royals,60,c Jaiswal b Asif,55,44,65,3,2,125
+3,Glenn Maxwell,Royal Challengers Bangalore,Royal Challengers Bangalore vs Rajasthan Royals,60,b Sandeep Sharma,54,33,51,5,3,163.63
+4,Mahipal Lomror,Royal Challengers Bangalore,Royal Challengers Bangalore vs Rajasthan Royals,60,c Jurel b Zampa,1,2,5,0,0,50
+5,Dinesh Karthik †,Royal Challengers Bangalore,Royal Challengers Bangalore vs Rajasthan Royals,60,lbw b Zampa,0,2,3,0,0,0
+6,Michael Bracewell,Royal Challengers Bangalore,Royal Challengers Bangalore vs Rajasthan Royals,60,not out,9,9,21,0,0,100
+7,Anuj Rawat,Royal Challengers Bangalore,Royal Challengers Bangalore vs Rajasthan Royals,60,not out,29,11,12,3,2,263.63
+1,Yashasvi Jaiswal,Rajasthan Royals,Royal Challengers Bangalore vs Rajasthan Royals,60,c Kohli b Mohammed Siraj,0,2,4,0,0,0
+2,Jos Buttler,Rajasthan Royals,Royal Challengers Bangalore vs Rajasthan Royals,60,c Mohammed Siraj b Parnell,0,2,10,0,0,0
+3,Sanju Samson (c)†,Rajasthan Royals,Royal Challengers Bangalore vs Rajasthan Royals,60,c Anuj Rawat b Parnell,4,5,10,1,0,80
+4,Joe Root,Rajasthan Royals,Royal Challengers Bangalore vs Rajasthan Royals,60,lbw b Parnell,10,15,26,1,0,66.66
+5,Devdutt Padikkal,Rajasthan Royals,Royal Challengers Bangalore vs Rajasthan Royals,60,c Mohammed Siraj b Bracewell,4,4,16,1,0,100
+6,Shimron Hetmyer,Rajasthan Royals,Royal Challengers Bangalore vs Rajasthan Royals,60,c Bracewell b Maxwell,35,19,28,1,4,184.21
+7,Dhruv Jurel,Rajasthan Royals,Royal Challengers Bangalore vs Rajasthan Royals,60,c Lomror b Bracewell,1,7,6,0,0,14.28
+8,Ravichandran Ashwin,Rajasthan Royals,Royal Challengers Bangalore vs Rajasthan Royals,60,run out (Mohammed Siraj/Anuj Rawat),0,0,7,0,0,-
+9,Adam Zampa,Rajasthan Royals,Royal Challengers Bangalore vs Rajasthan Royals,60,b Sharma,2,6,10,0,0,33.33
+10,Sandeep Sharma,Rajasthan Royals,Royal Challengers Bangalore vs Rajasthan Royals,60,not out,0,1,4,0,0,0
+11,KM Asif,Rajasthan Royals,Royal Challengers Bangalore vs Rajasthan Royals,60,c Kohli b Sharma,0,2,3,0,0,0
+1,Ruturaj Gaikwad,Chennai Super Kings ,Chennai Super Kings vs Kolkata Knight Riders,61,c Arora b Varun,17,13,19,2,0,130.76
+2,Devon Conway,Chennai Super Kings ,Chennai Super Kings vs Kolkata Knight Riders,61,c Singh b Thakur,30,28,51,3,0,107.14
+3,Ajinkya Rahane,Chennai Super Kings ,Chennai Super Kings vs Kolkata Knight Riders,61,c Roy b Varun,16,11,24,1,1,145.45
+4,Ambati Rayudu,Chennai Super Kings ,Chennai Super Kings vs Kolkata Knight Riders,61,b Narine,4,7,14,0,0,57.14
+5,Shivam Dube,Chennai Super Kings ,Chennai Super Kings vs Kolkata Knight Riders,61,not out,48,34,55,1,3,141.17
+6,Moeen Ali,Chennai Super Kings ,Chennai Super Kings vs Kolkata Knight Riders,61,b Narine,1,2,5,0,0,50
+7,Ravindra Jadeja,Chennai Super Kings ,Chennai Super Kings vs Kolkata Knight Riders,61,c Varun b Arora,20,24,43,0,1,83.33
+8,MS Dhoni (c)†,Chennai Super Kings ,Chennai Super Kings vs Kolkata Knight Riders,61,not out,2,3,4,0,0,66.66
+1,Jason Roy,Kolkata Knight Riders,Chennai Super Kings vs Kolkata Knight Riders,61,c Pathirana b Chahar,12,15,30,1,0,80
+2,Rahmanullah Gurbaz †,Kolkata Knight Riders,Chennai Super Kings vs Kolkata Knight Riders,61,c Deshpande b Chahar,1,4,8,0,0,25
+3,Venkatesh Iyer,Kolkata Knight Riders,Chennai Super Kings vs Kolkata Knight Riders,61,c Jadeja b Chahar,9,4,11,2,0,225
+4,Nitish Rana (c),Kolkata Knight Riders,Chennai Super Kings vs Kolkata Knight Riders,61,not out,57,44,72,6,1,129.54
+5,Rinku Singh,Kolkata Knight Riders,Chennai Super Kings vs Kolkata Knight Riders,61,run out (Ali),54,43,54,4,3,125.58
+6,Andre Russell,Kolkata Knight Riders,Chennai Super Kings vs Kolkata Knight Riders,61,not out,2,2,9,0,0,100
+1,Wriddhiman Saha †,Gujarat Titans,Gujarat Titans vs Sunrisers Hyderabad ,62,c Abhishek Sharma b Kumar,0,3,4,0,0,0
+2,Shubman Gill,Gujarat Titans,Gujarat Titans vs Sunrisers Hyderabad ,62,c Abdul Samad b Kumar,101,58,100,13,1,174.13
+3,Sai Sudharsan,Gujarat Titans,Gujarat Titans vs Sunrisers Hyderabad ,62,c Natarajan b Jansen,47,36,70,6,1,130.55
+4,Hardik Pandya (c),Gujarat Titans,Gujarat Titans vs Sunrisers Hyderabad ,62,c Tripathi b Kumar,8,6,7,1,0,133.33
+5,David Miller,Gujarat Titans,Gujarat Titans vs Sunrisers Hyderabad ,62,c Markram b Natarajan,7,5,8,1,0,140
+6,Rahul Tewatia,Gujarat Titans,Gujarat Titans vs Sunrisers Hyderabad ,62,c Jansen b Fazalhaq Farooqi,3,3,7,0,0,100
+7,Dasun Shanaka,Gujarat Titans,Gujarat Titans vs Sunrisers Hyderabad ,62,not out,9,7,12,1,0,128.57
+8,Rashid Khan,Gujarat Titans,Gujarat Titans vs Sunrisers Hyderabad ,62,c †Klaasen b Kumar,0,1,2,0,0,0
+9,Noor Ahmad,Gujarat Titans,Gujarat Titans vs Sunrisers Hyderabad ,62,run out (†Klaasen/Kumar),0,1,1,0,0,0
+10,Mohammed Shami,Gujarat Titans,Gujarat Titans vs Sunrisers Hyderabad ,62,c Jansen b Kumar,0,1,3,0,0,0
+11,Mohit Sharma,Gujarat Titans,Gujarat Titans vs Sunrisers Hyderabad ,62,not out,0,1,1,0,0,0
+1,Anmolpreet Singh,Sunrisers Hyderabad ,Gujarat Titans vs Sunrisers Hyderabad ,62,c Rashid Khan b Mohammed Shami,5,4,5,1,0,125
+2,Abhishek Sharma,Sunrisers Hyderabad ,Gujarat Titans vs Sunrisers Hyderabad ,62,c †Saha b Yash Dayal,5,5,10,1,0,100
+3,Aiden Markram (c),Sunrisers Hyderabad ,Gujarat Titans vs Sunrisers Hyderabad ,62,c Shanaka b Mohammed Shami,10,10,19,1,0,100
+4,Rahul Tripathi,Sunrisers Hyderabad ,Gujarat Titans vs Sunrisers Hyderabad ,62,c Tewatia b Mohammed Shami,1,2,5,0,0,50
+5,Heinrich Klaasen †,Sunrisers Hyderabad ,Gujarat Titans vs Sunrisers Hyderabad ,62,c Miller b Mohammed Shami,64,44,73,4,3,145.45
+6,Sanvir Singh,Sunrisers Hyderabad ,Gujarat Titans vs Sunrisers Hyderabad ,62,c Sai Sudharsan b Sharma,7,6,12,0,1,116.66
+7,Abdul Samad,Sunrisers Hyderabad ,Gujarat Titans vs Sunrisers Hyderabad ,62,c sub (Shivam Mavi) b Sharma,4,3,5,1,0,133.33
+8,Marco Jansen,Sunrisers Hyderabad ,Gujarat Titans vs Sunrisers Hyderabad ,62,c Pandya b Sharma,3,6,11,0,0,50
+9,Bhuvneshwar Kumar,Sunrisers Hyderabad ,Gujarat Titans vs Sunrisers Hyderabad ,62,c Rashid Khan b Sharma,27,26,51,3,0,103.84
+10,Mayank Markande,Sunrisers Hyderabad ,Gujarat Titans vs Sunrisers Hyderabad ,62,not out,18,9,17,2,1,200
+11,Fazalhaq Farooqi,Sunrisers Hyderabad ,Gujarat Titans vs Sunrisers Hyderabad ,62,not out,1,5,5,0,0,20
+1,Deepak Hooda,Lucknow Super Giants ,Lucknow Super Giants vs Mumbai Indians ,63,c David b Behrendorff,5,7,12,0,0,71.42
+2,Quinton de Kock †,Lucknow Super Giants ,Lucknow Super Giants vs Mumbai Indians ,63,c †Ishan Kishan b Chawla,16,15,31,0,2,106.66
+3,Prerak Mankad,Lucknow Super Giants ,Lucknow Super Giants vs Mumbai Indians ,63,c †Ishan Kishan b Behrendorff,0,1,2,0,0,0
+4,Krunal Pandya (c),Lucknow Super Giants ,Lucknow Super Giants vs Mumbai Indians ,63,retired hurt,49,42,71,1,1,116.66
+5,Marcus Stoinis,Lucknow Super Giants ,Lucknow Super Giants vs Mumbai Indians ,63,not out,89,47,80,4,8,189.36
+6,Nicholas Pooran,Lucknow Super Giants ,Lucknow Super Giants vs Mumbai Indians ,63,not out,8,8,25,1,0,100
+1,Ishan Kishan †,Mumbai Indians ,Lucknow Super Giants vs Mumbai Indians ,63,c Naveen-ul-Haq b Ravi Bishnoi,59,39,54,8,1,151.28
+2,Rohit Sharma (c),Mumbai Indians ,Lucknow Super Giants vs Mumbai Indians ,63,c Hooda b Ravi Bishnoi,37,25,47,1,3,148
+3,Suryakumar Yadav,Mumbai Indians ,Lucknow Super Giants vs Mumbai Indians ,63,b Yash Thakur,7,9,22,0,0,77.77
+4,Nehal Wadhera,Mumbai Indians ,Lucknow Super Giants vs Mumbai Indians ,63,c sub (K Gowtham) b Mohsin Khan,16,20,28,2,0,80
+5,Tim David,Mumbai Indians ,Lucknow Super Giants vs Mumbai Indians ,63,not out,32,19,41,1,3,168.42
+6,Vishnu Vinod,Mumbai Indians ,Lucknow Super Giants vs Mumbai Indians ,63,c Pooran b Yash Thakur,2,4,9,0,0,50
+7,Cameron Green,Mumbai Indians ,Lucknow Super Giants vs Mumbai Indians ,63,not out,4,6,17,0,0,66.66
+1,David Warner (c),Delhi Capitals ,Delhi Capitals vs Punjab Kings ,64,c Dhawan b Curran,46,31,53,5,2,148.38
+2,Prithvi Shaw,Delhi Capitals ,Delhi Capitals vs Punjab Kings ,64,c Taide b Curran,54,38,74,7,1,142.1
+3,Rilee Rossouw,Delhi Capitals ,Delhi Capitals vs Punjab Kings ,64,not out,82,37,44,6,6,221.62
+4,Phil Salt †,Delhi Capitals ,Delhi Capitals vs Punjab Kings ,64,not out,26,14,21,2,2,185.71
+1,Prabhsimran Singh,Punjab Kings ,Delhi Capitals vs Punjab Kings ,64,c Dhull b Patel,22,19,40,4,0,115.78
+2,Shikhar Dhawan (c),Punjab Kings ,Delhi Capitals vs Punjab Kings ,64,c Aman Hakim Khan b Sharma,0,1,9,0,0,0
+3,Atharva Taide,Punjab Kings ,Delhi Capitals vs Punjab Kings ,64,retired out,55,42,67,5,2,130.95
+4,Liam Livingstone,Punjab Kings ,Delhi Capitals vs Punjab Kings ,64,c Patel b Sharma,94,48,69,5,9,195.83
+5,Jitesh Sharma †,Punjab Kings ,Delhi Capitals vs Punjab Kings ,64,c Ahmed b Nortje,0,3,4,0,0,0
+6,M Shahrukh Khan,Punjab Kings ,Delhi Capitals vs Punjab Kings ,64,c Patel b Ahmed,6,3,7,0,1,200
+7,Sam Curran,Punjab Kings ,Delhi Capitals vs Punjab Kings ,64,b Nortje,11,5,13,1,1,220
+8,Harpreet Brar,Punjab Kings ,Delhi Capitals vs Punjab Kings ,64,run out (†Salt/Nortje),0,1,3,0,0,0
+9,Rahul Chahar,Punjab Kings ,Delhi Capitals vs Punjab Kings ,64,not out,0,0,9,0,0,-
+1,Abhishek Sharma,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Royal Challengers Bangalore,65,c Lomror b Bracewell,11,14,22,2,0,78.57
+2,Rahul Tripathi,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Royal Challengers Bangalore,65,c Patel b Bracewell,15,12,25,2,1,125
+3,Aiden Markram (c),Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Royal Challengers Bangalore,65,b Shahbaz Ahmed,18,20,37,0,0,90
+4,Heinrich Klaasen †,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Royal Challengers Bangalore,65,b Patel,104,51,62,8,6,203.92
+5,Harry Brook,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Royal Challengers Bangalore,65,not out,27,19,37,2,1,142.1
+6,Glenn Phillips,Sunrisers Hyderabad ,Sunrisers Hyderabad  vs Royal Challengers Bangalore,65,c Parnell b Mohammed Siraj,5,4,10,1,0,125
+1,Virat Kohli,Royal Challengers Bangalore,Sunrisers Hyderabad  vs Royal Challengers Bangalore,65,c Phillips b Kumar,100,63,82,12,4,158.73
+2,Faf du Plessis (c),Royal Challengers Bangalore,Sunrisers Hyderabad  vs Royal Challengers Bangalore,65,c Tripathi b Natarajan,71,47,86,7,2,151.06
+3,Glenn Maxwell,Royal Challengers Bangalore,Sunrisers Hyderabad  vs Royal Challengers Bangalore,65,not out,5,3,11,1,0,166.66
+4,Michael Bracewell,Royal Challengers Bangalore,Sunrisers Hyderabad  vs Royal Challengers Bangalore,65,not out,4,4,6,0,0,100
+1,Prabhsimran Singh,Punjab Kings ,Punjab Kings vs Rajasthan Royals,66,c & b Boult,2,2,3,0,0,100
+2,Shikhar Dhawan (c),Punjab Kings ,Punjab Kings vs Rajasthan Royals,66,lbw b Zampa,17,12,31,2,1,141.66
+3,Atharva Taide,Punjab Kings ,Punjab Kings vs Rajasthan Royals,66,c Padikkal b Saini,19,12,19,3,1,158.33
+4,Liam Livingstone,Punjab Kings ,Punjab Kings vs Rajasthan Royals,66,b Saini,9,13,16,1,0,69.23
+5,Sam Curran,Punjab Kings ,Punjab Kings vs Rajasthan Royals,66,not out,49,31,72,4,2,158.06
+6,Jitesh Sharma †,Punjab Kings ,Punjab Kings vs Rajasthan Royals,66,c sub (D Ferreira) b Saini,44,28,36,3,3,157.14
+7,M Shahrukh Khan,Punjab Kings ,Punjab Kings vs Rajasthan Royals,66,not out,41,23,31,4,2,178.26
+1,Yashasvi Jaiswal,Rajasthan Royals,Punjab Kings vs Rajasthan Royals,66,c sub (R Dhawan) b Ellis,50,36,72,8,0,138.88
+2,Jos Buttler,Rajasthan Royals,Punjab Kings vs Rajasthan Royals,66,lbw b Rabada,0,4,7,0,0,0
+3,Devdutt Padikkal,Rajasthan Royals,Punjab Kings vs Rajasthan Royals,66,c Harpreet Brar b Arshdeep Singh,51,30,38,5,3,170
+4,Sanju Samson (c)†,Rajasthan Royals,Punjab Kings vs Rajasthan Royals,66,c sub (R Dhawan) b Chahar,2,3,6,0,0,66.66
+5,Shimron Hetmyer,Rajasthan Royals,Punjab Kings vs Rajasthan Royals,66,c Dhawan b Curran,46,28,50,4,3,164.28
+6,Riyan Parag,Rajasthan Royals,Punjab Kings vs Rajasthan Royals,66,c Taide b Rabada,20,12,21,1,2,166.66
+7,Dhruv Jurel,Rajasthan Royals,Punjab Kings vs Rajasthan Royals,66,not out,10,4,11,0,1,250
+8,Trent Boult,Rajasthan Royals,Punjab Kings vs Rajasthan Royals,66,not out,1,2,6,0,0,50
+1,Ruturaj Gaikwad,Chennai Super Kings ,Chennai Super Kings vs Delhi Capitals ,67,c Rossouw b Sakariya,79,50,68,3,7,158
+2,Devon Conway,Chennai Super Kings ,Chennai Super Kings vs Delhi Capitals ,67,c Aman Hakim Khan b Nortje,87,52,90,11,3,167.3
+3,Shivam Dube,Chennai Super Kings ,Chennai Super Kings vs Delhi Capitals ,67,c Lalit Yadav b Ahmed,22,9,21,0,3,244.44
+4,MS Dhoni (c)†,Chennai Super Kings ,Chennai Super Kings vs Delhi Capitals ,67,not out,5,4,14,0,0,125
+5,Ravindra Jadeja,Chennai Super Kings ,Chennai Super Kings vs Delhi Capitals ,67,not out,20,7,12,3,1,285.71
+1,Prithvi Shaw,Delhi Capitals ,Chennai Super Kings vs Delhi Capitals ,67,c Rayudu b Deshpande,5,7,8,1,0,71.42
+2,David Warner (c),Delhi Capitals ,Chennai Super Kings vs Delhi Capitals ,67,c Gaikwad b Pathirana,86,58,92,7,5,148.27
+3,Phil Salt †,Delhi Capitals ,Chennai Super Kings vs Delhi Capitals ,67,c Rahane b Chahar,3,6,17,0,0,50
+4,Rilee Rossouw,Delhi Capitals ,Chennai Super Kings vs Delhi Capitals ,67,b Chahar,0,1,2,0,0,0
+5,Yash Dhull,Delhi Capitals ,Chennai Super Kings vs Delhi Capitals ,67,c Deshpande b Jadeja,13,15,25,1,0,86.66
+6,Axar Patel,Delhi Capitals ,Chennai Super Kings vs Delhi Capitals ,67,c Gaikwad b Chahar,15,8,15,1,1,187.5
+7,Aman Hakim Khan,Delhi Capitals ,Chennai Super Kings vs Delhi Capitals ,67,c Ali b Pathirana,7,9,17,1,0,77.77
+8,Lalit Yadav,Delhi Capitals ,Chennai Super Kings vs Delhi Capitals ,67,c Ali b Theekshana,6,12,16,0,0,50
+9,Anrich Nortje,Delhi Capitals ,Chennai Super Kings vs Delhi Capitals ,67,not out,0,1,10,0,0,0
+10,Kuldeep Yadav,Delhi Capitals ,Chennai Super Kings vs Delhi Capitals ,67,lbw b Theekshana,0,1,2,0,0,0
+11,Chetan Sakariya,Delhi Capitals ,Chennai Super Kings vs Delhi Capitals ,67,not out,0,2,3,0,0,0
+1,Karan Sharma,Lucknow Super Giants ,Lucknow Super Giants vs Kolkata Knight Riders,68,c Thakur b Harshit Rana,3,5,15,0,0,60
+2,Quinton de Kock †,Lucknow Super Giants ,Lucknow Super Giants vs Kolkata Knight Riders,68,c Russell b Varun,28,27,55,0,2,103.7
+3,Prerak Mankad,Lucknow Super Giants ,Lucknow Super Giants vs Kolkata Knight Riders,68,c Harshit Rana b Arora,26,20,22,5,0,130
+4,Marcus Stoinis,Lucknow Super Giants ,Lucknow Super Giants vs Kolkata Knight Riders,68,c Iyer b Arora,0,2,5,0,0,0
+5,Krunal Pandya (c),Lucknow Super Giants ,Lucknow Super Giants vs Kolkata Knight Riders,68,c Singh b Narine,9,8,13,0,1,112.5
+6,Ayush Badoni,Lucknow Super Giants ,Lucknow Super Giants vs Kolkata Knight Riders,68,c Thakur b Narine,25,21,42,2,1,119.04
+7,Nicholas Pooran,Lucknow Super Giants ,Lucknow Super Giants vs Kolkata Knight Riders,68,c Iyer b Thakur,58,30,42,4,5,193.33
+8,Krishnappa Gowtham,Lucknow Super Giants ,Lucknow Super Giants vs Kolkata Knight Riders,68,not out,11,4,9,1,1,275
+9,Ravi Bishnoi,Lucknow Super Giants ,Lucknow Super Giants vs Kolkata Knight Riders,68,b Thakur,2,2,3,0,0,100
+10,Naveen-ul-Haq,Lucknow Super Giants ,Lucknow Super Giants vs Kolkata Knight Riders,68,not out,2,3,3,0,0,66.66
+1,Jason Roy,Kolkata Knight Riders,Lucknow Super Giants vs Kolkata Knight Riders,68,b Pandya,45,28,44,7,1,160.71
+2,Venkatesh Iyer,Kolkata Knight Riders,Lucknow Super Giants vs Kolkata Knight Riders,68,c Ravi Bishnoi b Gowtham,24,15,25,3,1,160
+3,Nitish Rana (c),Kolkata Knight Riders,Lucknow Super Giants vs Kolkata Knight Riders,68,c Pandya b Ravi Bishnoi,8,10,13,1,0,80
+4,Rahmanullah Gurbaz †,Kolkata Knight Riders,Lucknow Super Giants vs Kolkata Knight Riders,68,c Ravi Bishnoi b Yash Thakur,10,15,25,0,0,66.66
+5,Rinku Singh,Kolkata Knight Riders,Lucknow Super Giants vs Kolkata Knight Riders,68,not out,67,33,62,6,4,203.03
+6,Andre Russell,Kolkata Knight Riders,Lucknow Super Giants vs Kolkata Knight Riders,68,b Ravi Bishnoi,7,9,13,0,1,77.77
+7,Shardul Thakur,Kolkata Knight Riders,Lucknow Super Giants vs Kolkata Knight Riders,68,c Mankad b Yash Thakur,3,7,14,0,0,42.85
+8,Sunil Narine,Kolkata Knight Riders,Lucknow Super Giants vs Kolkata Knight Riders,68,run out (Naveen-ul-Haq/†de Kock),1,2,4,0,0,50
+9,Vaibhav Arora,Kolkata Knight Riders,Lucknow Super Giants vs Kolkata Knight Riders,68,not out,1,1,15,0,0,100
+1,Vivrant Sharma,Sunrisers Hyderabad ,Sunrisers Hyderabad vs Mumbai Indians ,69,c sub (Ramandeep Singh) b Madhwal,69,47,69,9,2,146.8
+2,Mayank Agarwal,Sunrisers Hyderabad ,Sunrisers Hyderabad vs Mumbai Indians ,69,c †Ishan Kishan b Madhwal,83,46,84,8,4,180.43
+3,Heinrich Klaasen †,Sunrisers Hyderabad ,Sunrisers Hyderabad vs Mumbai Indians ,69,b Madhwal,18,13,31,2,0,138.46
+4,Glenn Phillips,Sunrisers Hyderabad ,Sunrisers Hyderabad vs Mumbai Indians ,69,c Kartikeya b Jordan,1,4,8,0,0,25
+5,Aiden Markram (c),Sunrisers Hyderabad ,Sunrisers Hyderabad vs Mumbai Indians ,69,not out,13,7,19,0,1,185.71
+6,Harry Brook,Sunrisers Hyderabad ,Sunrisers Hyderabad vs Mumbai Indians ,69,b Madhwal,0,1,2,0,0,0
+7,Sanvir Singh,Sunrisers Hyderabad ,Sunrisers Hyderabad vs Mumbai Indians ,69,not out,4,3,8,1,0,133.33
+1,Ishan Kishan †,Mumbai Indians ,Sunrisers Hyderabad vs Mumbai Indians ,69,c Brook b Kumar,14,12,14,1,1,116.66
+2,Rohit Sharma (c),Mumbai Indians ,Sunrisers Hyderabad vs Mumbai Indians ,69,c Nitish Kumar Reddy b Dagar,56,37,72,8,1,151.35
+3,Cameron Green,Mumbai Indians ,Sunrisers Hyderabad vs Mumbai Indians ,69,not out,100,47,85,8,8,212.76
+4,Suryakumar Yadav,Mumbai Indians ,Sunrisers Hyderabad vs Mumbai Indians ,69,not out,25,16,27,4,0,156.25
+1,Virat Kohli,Royal Challengers Bangalore,Royal Challengers Bangalore vs Gujarat Titans,70,not out,101,61,102,13,1,165.57
+2,Faf du Plessis (c),Royal Challengers Bangalore,Royal Challengers Bangalore vs Gujarat Titans,70,c Tewatia b Noor Ahmad,28,19,35,5,0,147.36
+3,Glenn Maxwell,Royal Challengers Bangalore,Royal Challengers Bangalore vs Gujarat Titans,70,b Rashid Khan,11,5,7,1,1,220
+4,Mahipal Lomror,Royal Challengers Bangalore,Royal Challengers Bangalore vs Gujarat Titans,70,st †Saha b Noor Ahmad,1,3,5,0,0,33.33
+5,Michael Bracewell,Royal Challengers Bangalore,Royal Challengers Bangalore vs Gujarat Titans,70,c & b Mohammed Shami,26,16,26,5,0,162.5
+6,Dinesh Karthik,Royal Challengers Bangalore,Royal Challengers Bangalore vs Gujarat Titans,70,c †Saha b Yash Dayal,0,1,2,0,0,0
+7,Anuj Rawat †,Royal Challengers Bangalore,Royal Challengers Bangalore vs Gujarat Titans,70,not out,23,15,30,1,1,153.33
+1,Wriddhiman Saha †,Gujarat Titans,Royal Challengers Bangalore vs Gujarat Titans,70,c Parnell b Mohammed Siraj,12,14,15,2,0,85.71
+2,Shubman Gill,Gujarat Titans,Royal Challengers Bangalore vs Gujarat Titans,70,not out,104,52,97,5,8,200
+3,Vijay Shankar,Gujarat Titans,Royal Challengers Bangalore vs Gujarat Titans,70,c Kohli b Vyshak,53,35,53,7,2,151.42
+4,Dasun Shanaka,Gujarat Titans,Royal Challengers Bangalore vs Gujarat Titans,70,c sub (SS Prabhudessai) b Patel,0,3,5,0,0,0
+5,David Miller,Gujarat Titans,Royal Challengers Bangalore vs Gujarat Titans,70,c sub (SS Prabhudessai) b Mohammed Siraj,6,7,12,1,0,85.71
+6,Rahul Tewatia,Gujarat Titans,Royal Challengers Bangalore vs Gujarat Titans,70,not out,4,5,12,0,0,80
